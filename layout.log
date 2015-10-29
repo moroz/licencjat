@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2015.10.25)  29 OCT 2015 11:39
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2015.10.25)  29 OCT 2015 23:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -968,32 +968,32 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 . and font adjustment code:
 . 
 .................................................
-\g__fontspec_family_DroidSansFallback_int=\count140
+\g__fontspec_family_SimSun_int=\count140
 .................................................
 . fontspec info: "no-font-shape"
 . 
-. Could not resolve font Droid Sans Fallback/BI (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font Droid Sans Fallback/B (it probably doesn't exist).
+. Could not resolve font SimSun/BI (it probably doesn't exist).
 .................................................
 .................................................
 . fontspec info: "no-font-shape"
 . 
-. Could not resolve font Droid Sans Fallback/I (it probably doesn't exist).
+. Could not resolve font SimSun/B (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font SimSun/I (it probably doesn't exist).
 .................................................
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'DroidSansFallback(0)' created for font 'Droid Sans Fallback'
-. with options [Script={CJK}].
+. Font family 'SimSun(0)' created for font 'SimSun' with options
+. [Script={CJK}].
 . 
 . This font family consists of the following shapes:
 . 
 . * 'normal' with NFSS spec.:
-. <->"Droid Sans Fallback/OT:script=hani;language=DFLT;"
+. <->"SimSun/OT:script=hani;language=DFLT;"
 . 
 . * 'small caps' with NFSS spec.:
 . 
@@ -1143,9 +1143,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 1.
 
 Overfull \hbox (0.43663pt too wide) in paragraph at lines 4--7
-\EU1/AdobeTextPro(0)/m/n/12 Początkowo termin ten tłumaczono jako \EU1/DroidSan
-sFallback(0)/m/n/12 禪 那 \EU1/AdobeTextPro(0)/m/n/12 chán nà, pierwotnie wymawia
-ne \EU1/AdobeTextPro(0)/m/it/12 dianna\EU1/AdobeTextPro(0)/m/n/12 , co było
+\EU1/AdobeTextPro(0)/m/n/12 Początkowo termin ten tłumaczono jako \EU1/SimSun(0
+)/m/n/12 禪 那 \EU1/AdobeTextPro(0)/m/n/12 chán nà, pierwotnie wymawiane \EU1/Ado
+beTextPro(0)/m/it/12 dianna\EU1/AdobeTextPro(0)/m/n/12 , co było
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -1156,7 +1156,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 ] [2]
-Overfull \hbox (0.60222pt too wide) in paragraph at lines 65--66
+Overfull \hbox (0.60222pt too wide) in paragraph at lines 76--77
 \EU1/AdobeTextPro(0)/m/n/12 prawdę chodzi tu o indywidualne zdolności uczniów —
  inteligentniejsi, z otwartymi umysłami,
  []
@@ -1169,24 +1169,24 @@ Overfull \hbox (0.60222pt too wide) in paragraph at lines 65--66
 * 
 * Try to use `\setCJKmonofont[...]{...}' to define it.
 *************************************************
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 83.
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 94.
 
 (/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmtt.fd
 File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Overfull \hbox (1.26544pt too wide) in paragraph at lines 82--84
+Overfull \hbox (1.26544pt too wide) in paragraph at lines 93--95
 []\EU1/AdobeTextPro(0)/m/n/12 Huineng, Mou-lam Wong, and Christmas Humphreys. \
 EU1/AdobeTextPro(0)/m/it/12 The Sutra of Wei Lang (or Hui Neng),
  []
 
-) [4] [5] (./layout.aux (./prezentacja.aux)) ) 
+) [4] (./layout.aux (./prezentacja.aux)) ) 
 Here is how much of TeX's memory you used:
  66487 strings out of 495242
- 1375490 string characters out of 6179787
+ 1375210 string characters out of 6179787
  707354 words of memory out of 5000000
  69586 multiletter control sequences out of 15000+600000
  7184 words of font info for 50 fonts, out of 8000000 for 9000
  306 hyphenation exceptions out of 8191
  46i,7n,69p,10425b,47136s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on layout.pdf (5 pages).
+Output written on layout.pdf (4 pages).
