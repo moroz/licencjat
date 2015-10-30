@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2015.10.25)  29 OCT 2015 23:34
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2015.10.25)  30 OCT 2015 09:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1155,8 +1155,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [1
 
 
-] [2]
-Overfull \hbox (0.60222pt too wide) in paragraph at lines 76--77
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+Overfull \hbox (0.60222pt too wide) in paragraph at lines 85--86
 \EU1/AdobeTextPro(0)/m/n/12 prawdę chodzi tu o indywidualne zdolności uczniów —
  inteligentniejsi, z otwartymi umysłami,
  []
@@ -1169,24 +1172,28 @@ Overfull \hbox (0.60222pt too wide) in paragraph at lines 76--77
 * 
 * Try to use `\setCJKmonofont[...]{...}' to define it.
 *************************************************
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 94.
-
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 103
+.
 (/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmtt.fd
 File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Overfull \hbox (1.26544pt too wide) in paragraph at lines 93--95
+Overfull \hbox (1.26544pt too wide) in paragraph at lines 102--104
 []\EU1/AdobeTextPro(0)/m/n/12 Huineng, Mou-lam Wong, and Christmas Humphreys. \
 EU1/AdobeTextPro(0)/m/it/12 The Sutra of Wei Lang (or Hui Neng),
  []
 
-) [4] (./layout.aux (./prezentacja.aux)) ) 
+
+Underfull \vbox (badness 2261) has occurred while \output is active []
+
+ [4])
+[5] (./layout.aux (./prezentacja.aux)) ) 
 Here is how much of TeX's memory you used:
  66487 strings out of 495242
  1375210 string characters out of 6179787
- 707354 words of memory out of 5000000
+ 706354 words of memory out of 5000000
  69586 multiletter control sequences out of 15000+600000
  7184 words of font info for 50 fonts, out of 8000000 for 9000
  306 hyphenation exceptions out of 8191
  46i,7n,69p,10425b,47136s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on layout.pdf (4 pages).
+Output written on layout.pdf (5 pages).
