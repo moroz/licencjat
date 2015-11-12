@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2015.10.25)  12 NOV 2015 11:20
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2015.10.25)  12 NOV 2015 23:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1000,70 +1000,38 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 . and font adjustment code:
 . 
 .................................................
-\g__fontspec_family_DroidSansFallback_int=\count141
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font Droid Sans Fallback/BI (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font Droid Sans Fallback/B (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font Droid Sans Fallback/I (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'DroidSansFallback(0)' created for font 'Droid Sans Fallback'
-. with options [Mapping=tex-text].
-. 
-. This font family consists of the following shapes:
-. 
-. * 'normal' with NFSS spec.:
-. <->"Droid Sans Fallback/OT:script=latn;language=DFLT;mapping=tex-text;"
-. 
-. * 'small caps' with NFSS spec.:
-. 
-. and font adjustment code:
-. 
-.................................................
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 
 
 Package csquotes Warning: No style for language 'polish'.
-(csquotes)                Using fallback style on input line 18.
+(csquotes)                Using fallback style on input line 19.
 
 Package csquotes Info: Redefining alias 'default' -> 'fallback'.
 (./layout.aux (./prezentacja.aux))
 \openout1 = `layout.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 18.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 19.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 19.
  (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    ... okay on input line 19.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1112,7 +1080,51 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 5.
-Missing character: There is no 선 in font SimSun/OT:script=hani;language=DFLT;!
+
+*************************************************
+* fontspec warning: "script-not-exist-latn"
+* 
+* Font 'NanumMyeongjo' does not contain script 'CJK'.
+* 'Latin' script used instead.
+*************************************************
+\g__fontspec_family_NanumMyeongjo_int=\count141
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font NanumMyeongjo/I (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'NanumMyeongjo(0)' created for font 'NanumMyeongjo' with options
+. [Script={CJK}].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->"NanumMyeongjo/OT:script=latn;language=DFLT;"
+. 
+. * 'small caps' with NFSS spec.:
+. 
+. and font adjustment code:
+. 
+. 
+. * 'bold' with NFSS spec.:
+. <->"NanumMyeongjo/B/OT:script=latn;language=DFLT;"
+. 
+. * 'bold small caps' with NFSS spec.:
+. 
+. and font adjustment code:
+. 
+. 
+. * 'bold italic' with NFSS spec.:
+. <->"NanumMyeongjo/BI/OT:script=latn;language=DFLT;"
+. 
+. * 'bold small caps' with NFSS spec.:
+. 
+. and font adjustment code:
+. 
+.................................................
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1142,176 +1154,39 @@ eniu, jednak podział na pojęcia „ścieżki
 * 
 * Try to use `\setCJKmonofont[...]{...}' to define it.
 *************************************************
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 138
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 137
 .
 (/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmtt.fd
 File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Overfull \hbox (8.0995pt too wide) in paragraph at lines 137--139
-\EU1/AdobeTextPro(0)/m/n/12 Hyperion Press, 1998 $[][][][] [] [] [] [][][] [] [
-][][][] [] [][][][][][] [] [][][] [] [][][][][] [] [][][][][][][][] [] [][][][]
-[][][] [] [][][][][][][] []
+Overfull \hbox (3.20364pt too wide) in paragraph at lines 137--138
+\EU1/AdobeTextPro(0)/m/it/12 Neng)\EU1/AdobeTextPro(0)/m/n/12 . Westport, Conn:
+ Hyperion Press. $[][][][] [] [] [] [][][] [] [][][][] [] [][][][][][] [] [][][
+] [] [][][][][] [] [][][][][][][][] []
  []
 
 [5]
-Overfull \hbox (16.59584pt too wide) in paragraph at lines 140--142
-\EU1/AdobeTextPro(0)/m/n/12 tion Society]. San Francisco: Sino-American Buddhis
-t Association, 1977. $[][][][] [] [] [] [][][] [] [][][][][][][] []
- []
-
-
-Overfull \hbox (0.18881pt too wide) in paragraph at lines 143--144
-[]\EU1/AdobeTextPro(0)/m/n/12 Buswell, Robert E. \EU1/AdobeTextPro(0)/m/it/12 E
-ncyclopedia of Buddhism. \EU1/AdobeTextPro(0)/m/n/12 New York: Macmillan Refere
-nce, USA, 2004. 
- []
-
-
-Overfull \hbox (24.56058pt too wide) in paragraph at lines 149--150
+Overfull \hbox (24.56058pt too wide) in paragraph at lines 141--142
 []\EU1/AdobeTextPro(0)/m/n/12 Huineng, \EU1/AdobeTextPro(0)/m/it/12 Sutra Szóst
 ego Patriarchy Zen\EU1/AdobeTextPro(0)/m/n/12 , tłumacz nieznany, $[][][][] [] 
 [] [] [][][] [] [][][] [] [][][] [] [][] [] [][][][][][] []
  []
 
+
+Overfull \hbox (25.51942pt too wide) in paragraph at lines 143--144
+\EU1/AdobeTextPro(0)/m/n/12 utledgeCurzon. $[][][][] [] [] [] [][][][][][][][][
+][][][][][][][][][][] [] [][][][] [] [][][] [] [][] [] [][][][][][][][][][] [] 
+[][][][][] [] [][][][][][][][] [][]
+ []
+
 ) [6] (./layout.aux (./prezentacja.aux)) ) 
 Here is how much of TeX's memory you used:
- 66507 strings out of 495242
- 1375797 string characters out of 6179787
+ 66513 strings out of 495242
+ 1375897 string characters out of 6179787
  707361 words of memory out of 5000000
- 69596 multiletter control sequences out of 15000+600000
+ 69603 multiletter control sequences out of 15000+600000
  7208 words of font info for 53 fonts, out of 8000000 for 9000
  306 hyphenation exceptions out of 8191
  46i,7n,69p,10375b,47136s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on layout.pdf (6 pages).
-                                                                                                                                            
-(/usr/share/texmf/tex/generic/tex4ht/mathml.4ht
-version 2009-04-18-11:08
-)
-(/usr/share/texmf/tex/generic/tex4ht/ooffice-mml.4ht
-version 2009-06-11-09:32
-))
-(/usr/share/texmf/tex/generic/tex4ht/url.4ht
-version 2009-05-21-09:32
-
-(/usr/share/texmf/tex/generic/tex4ht/ooffice.4ht
-version 2009-06-11-09:32
-Invalid UTF-8 byte or sequence at line 8229 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 8230 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 8232 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 8233 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 8238 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 8239 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 8241 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 8242 replaced by U+FFFD.
---------------------------------------
---- Note --- for URL encoding within href use the command line option `url-enc'
-; for hyperlink-less entry use the command line option `url-'
---------------------------------------
-)
-(/usr/share/texmf/tex/generic/tex4ht/unicode.4ht
-version 2009-02-23-20:45
-)
-(/usr/share/texmf/tex/generic/tex4ht/mathml.4ht
-version 2009-04-18-11:08
-)
-(/usr/share/texmf/tex/generic/tex4ht/ooffice-mml.4ht
-version 2009-06-11-09:32
-))
-(/usr/share/texmf/tex/generic/tex4ht/ooffice.4ht
-version 2009-06-11-09:32
-)
-(/usr/share/texmf/tex/generic/tex4ht/unicode.4ht
-version 2009-02-23-20:45
-)
-(/usr/share/texmf/tex/generic/tex4ht/mathml.4ht
-version 2009-04-18-11:08
-)
-(/usr/share/texmf/tex/generic/tex4ht/ooffice-mml.4ht
-version 2009-06-11-09:32
-)) (./layout.aux
-(./prezentacja.aux))
-\openout1 = `layout.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 18.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 18.
- (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
-File: t3cmr.fd 2001/12/31 TIPA font definitions
-)
-LaTeX Font Info:    ... okay on input line 18.
-
-*geometry* driver: auto-detecting
-*geometry* detected driver: xetex
-*geometry* verbose mode - [ preamble ] result:
-* driver: xetex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
-* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=455.24411pt
-* \textheight=702.78308pt
-* \oddsidemargin=0.0pt
-* \evensidemargin=0.0pt
-* \topmargin=-32.1381pt
-* \headheight=14.5pt
-* \headsep=16.5pt
-* \topskip=12.0pt
-* \footskip=29.0pt
-* \marginparwidth=0.0pt
-* \marginparsep=0.0pt
-* \columnsep=25.6802pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
-[1]
-\openout2 = `prezentacja.aux'.
-
- (./prezentacja.tex
-! Undefined control sequence.
-\maketitle ...d {\a:and } \fi \pic:gobble \a:mktl 
-                                                  \o:maketitle: \pic:gobble ...
-l.1 \maketitle
-              
-? 
-! Emergency stop.
-\maketitle ...d {\a:and } \fi \pic:gobble \a:mktl 
-                                                  \o:maketitle: \pic:gobble ...
-l.1 \maketitle
-              
-End of file on the terminal!
-
- 
-Here is how much of TeX's memory you used:
- 70268 strings out of 495242
- 1415251 string characters out of 6179787
- 866808 words of memory out of 5000000
- 73263 multiletter control sequences out of 15000+600000
- 7375 words of font info for 35 fonts, out of 8000000 for 9000
- 306 hyphenation exceptions out of 8191
- 52i,4n,71p,10877b,47136s stack positions out of 5000i,500n,10000p,200000b,80000s
-Output written on layout.xdv (54 pages, 27048 bytes).
