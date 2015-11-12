@@ -2,24 +2,21 @@
 \special{papersize=210mm,297mm}
 % Wersja XeLaTeX
 \usepackage[polish]{babel}
-\usepackage{fontspec,xeCJK,xpinyin,setspace,etoolbox,csquotes}
+\usepackage[no-math]{fontspec}
+\usepackage{xeCJK}
+\usepackage{xpinyin,setspace,etoolbox,csquotes}
 \usepackage[top=2.5cm,left=2.5cm,right=2.5cm,bottom=2.5cm]{geometry}
 \usepackage{url}
 \makeatletter
 \g@addto@macro{\UrlBreaks}{\UrlOrds}
 \makeatother
-\setmainfont[Mapping=tex-text]{Times New Roman}
+\setmainfont[Mapping=tex-text]{Adobe Text Pro}
 \setCJKmainfont{SimSun}
 \author{Karol Moroz}
 \title{Wizja medytacji w Sutrze Platformy Szóstego Patriarchy Huineng}
 \newfontfamily{\Hangul}[Mapping=tex-text]{Droid Sans Fallback}
 \begin{document}
-\makeatletter
-\pretocmd{\@sect}{\singlespacing}{}{}
-\pretocmd{\@ssect}{\singlespacing}{}{}
-\apptocmd{\@sect}{\doublespacing}{}{}
-\apptocmd{\@ssect}{\doublespacing}{}{}
-\makeatother
+
 \onehalfspacing
 \frenchspacing
 \include{prezentacja}

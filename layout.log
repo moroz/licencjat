@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2015.10.25)  11 NOV 2015 15:55
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2015.10.25)  12 NOV 2015 11:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -921,38 +921,38 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-.................................................
-. fontspec info: "no-scripts"
-. 
-. Font Times New Roman does not contain any OpenType `Script' information.
-.................................................
-\g__fontspec_family_TimesNewRoman_int=\count139
+\g__fontspec_family_AdobeTextPro_int=\count139
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'TimesNewRoman(0)' created for font 'Times New Roman' with
-. options [Ligatures=TeX,Mapping=tex-text].
+. Font family 'AdobeTextPro(0)' created for font 'Adobe Text Pro' with options
+. [Ligatures=TeX,Mapping=tex-text].
 . 
 . This font family consists of the following shapes:
 . 
 . * 'normal' with NFSS spec.:
-. <->"Times New Roman/OT:mapping=tex-text;mapping=tex-text;"
+. <->"Adobe Text
+. Pro/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;"
 . 
 . * 'small caps' with NFSS spec.:
-. 
+. <->"Adobe Text
+. Pro/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+smcp;"
 . and font adjustment code:
 . 
 . 
 . * 'bold' with NFSS spec.:
-. <->"Times New Roman/B/OT:mapping=tex-text;mapping=tex-text;"
+. <->"Adobe Text
+. Pro/B/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;"
 . 
 . * 'bold small caps' with NFSS spec.:
-. 
+. <->"Adobe Text
+. Pro/B/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+smcp;"
 . and font adjustment code:
 . 
 . 
 . * 'italic' with NFSS spec.:
-. <->"Times New Roman/I/OT:mapping=tex-text;mapping=tex-text;"
+. <->"Adobe Text
+. Pro/I/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;"
 . 
 . * 'small caps' with NFSS spec.:
 . 
@@ -960,7 +960,8 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 . 
 . 
 . * 'bold italic' with NFSS spec.:
-. <->"Times New Roman/BI/OT:mapping=tex-text;mapping=tex-text;"
+. <->"Adobe Text
+. Pro/BI/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;"
 . 
 . * 'bold small caps' with NFSS spec.:
 . 
@@ -1037,97 +1038,32 @@ Package csquotes Info: Adjusting default style.
 
 
 Package csquotes Warning: No style for language 'polish'.
-(csquotes)                Using fallback style on input line 16.
+(csquotes)                Using fallback style on input line 18.
 
 Package csquotes Info: Redefining alias 'default' -> 'fallback'.
 (./layout.aux (./prezentacja.aux))
 \openout1 = `layout.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 16.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 18.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 18.
  (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 16.
-.................................................
-. fontspec info: "setup-math"
-. 
-. Adjusting the maths setup (use [no-math] to avoid this).
-.................................................
-\symlegacymaths=\mathgroup4
-LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 16.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 16.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 16.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 16.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 16.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 16.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 16.
-LaTeX Font Info:    Redeclaring math accent \check on input line 16.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 16.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 16.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 16.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 16.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 16.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 16.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 16.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 16.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 16.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 16.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 16.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 16.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 16.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 16.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 16.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 16.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 16.
-LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 16.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> EU1/TimesNewRoman(0)/m/n on input line 
-16.
-LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 16.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> EU1/TimesNewRoman(0)/m/n on input line
- 16.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  EU1/TimesNewRoman(0)/m/n --> EU1/TimesNewRoman(0)/m/n o
-n input line 16.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> EU1/TimesNewRoman(0)/m/it on input lin
-e 16.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> EU1/TimesNewRoman(0)/bx/n on input lin
-e 16.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 16.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 16.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  EU1/TimesNewRoman(0)/m/n --> EU1/TimesNewRoman(0)/bx/n 
-on input line 16.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> EU1/TimesNewRoman(0)/bx/it on input l
-ine 16.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 16.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 16.
+LaTeX Font Info:    ... okay on input line 18.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1184,13 +1120,21 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-[2]
-Underfull \vbox (badness 2469) has occurred while \output is active []
+[2] [3]
+Overfull \hbox (2.50464pt too wide) in paragraph at lines 96--97
+[]\EU1/AdobeTextPro(0)/m/n/12 — Czy nie słyszałeś? — odpowiedział pytaniem mnic
+h. — Patriarcha kazał wszystkim swoim
+ []
 
- [3]
-Underfull \vbox (badness 2261) has occurred while \output is active []
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4]
+Overfull \hbox (2.8406pt too wide) in paragraph at lines 120--121
+[]\EU1/AdobeTextPro(0)/m/n/12 Sutra Platformy wprowadziła nauki o nagłym oświec
+eniu, jednak podział na pojęcia „ścieżki
+ []
+
 *************************************************
 * xeCJK warning: "CJKfamily-Unknown"
 * 
@@ -1198,31 +1142,176 @@ Underfull \vbox (badness 2261) has occurred while \output is active []
 * 
 * Try to use `\setCJKmonofont[...]{...}' to define it.
 *************************************************
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 111
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 138
 .
 (/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmtt.fd
 File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Missing character: There is no ̈ in font Times New Roman/OT:mapping=tex-text;ma
-pping=tex-text;!
-
-Overfull \hbox (19.79489pt too wide) in paragraph at lines 113--115
-\EU1/TimesNewRoman(0)/m/n/12 lation Society]. San Francisco: Sino-American Budd
-hist Association, 1977. $[][][][] [] [] [] [][][] [] [][][][][][][] []
+Overfull \hbox (8.0995pt too wide) in paragraph at lines 137--139
+\EU1/AdobeTextPro(0)/m/n/12 Hyperion Press, 1998 $[][][][] [] [] [] [][][] [] [
+][][][] [] [][][][][][] [] [][][] [] [][][][][] [] [][][][][][][][] [] [][][][]
+[][][] [] [][][][][][][] []
  []
 
-Missing character: There is no ̈ in font Times New Roman/OT:mapping=tex-text;ma
-pping=tex-text;!
-Missing character: There is no ̄ in font Times New Roman/OT:mapping=tex-text;ma
-pping=tex-text;!
-) [5] (./layout.aux (./prezentacja.aux)) ) 
-Here is how much of TeX's memory you used:
- 66510 strings out of 495242
- 1375416 string characters out of 6179787
- 705166 words of memory out of 5000000
- 69597 multiletter control sequences out of 15000+600000
- 7224 words of font info for 55 fonts, out of 8000000 for 9000
- 306 hyphenation exceptions out of 8191
- 46i,7n,69p,10425b,47136s stack positions out of 5000i,500n,10000p,200000b,80000s
+[5]
+Overfull \hbox (16.59584pt too wide) in paragraph at lines 140--142
+\EU1/AdobeTextPro(0)/m/n/12 tion Society]. San Francisco: Sino-American Buddhis
+t Association, 1977. $[][][][] [] [] [] [][][] [] [][][][][][][] []
+ []
 
-Output written on layout.pdf (5 pages).
+
+Overfull \hbox (0.18881pt too wide) in paragraph at lines 143--144
+[]\EU1/AdobeTextPro(0)/m/n/12 Buswell, Robert E. \EU1/AdobeTextPro(0)/m/it/12 E
+ncyclopedia of Buddhism. \EU1/AdobeTextPro(0)/m/n/12 New York: Macmillan Refere
+nce, USA, 2004. 
+ []
+
+
+Overfull \hbox (24.56058pt too wide) in paragraph at lines 149--150
+[]\EU1/AdobeTextPro(0)/m/n/12 Huineng, \EU1/AdobeTextPro(0)/m/it/12 Sutra Szóst
+ego Patriarchy Zen\EU1/AdobeTextPro(0)/m/n/12 , tłumacz nieznany, $[][][][] [] 
+[] [] [][][] [] [][][] [] [][][] [] [][] [] [][][][][][] []
+ []
+
+) [6] (./layout.aux (./prezentacja.aux)) ) 
+Here is how much of TeX's memory you used:
+ 66507 strings out of 495242
+ 1375797 string characters out of 6179787
+ 707361 words of memory out of 5000000
+ 69596 multiletter control sequences out of 15000+600000
+ 7208 words of font info for 53 fonts, out of 8000000 for 9000
+ 306 hyphenation exceptions out of 8191
+ 46i,7n,69p,10375b,47136s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on layout.pdf (6 pages).
+                                                                                                                                            
+(/usr/share/texmf/tex/generic/tex4ht/mathml.4ht
+version 2009-04-18-11:08
+)
+(/usr/share/texmf/tex/generic/tex4ht/ooffice-mml.4ht
+version 2009-06-11-09:32
+))
+(/usr/share/texmf/tex/generic/tex4ht/url.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texmf/tex/generic/tex4ht/ooffice.4ht
+version 2009-06-11-09:32
+Invalid UTF-8 byte or sequence at line 8229 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8230 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8232 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8233 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8238 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8239 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8241 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 8242 replaced by U+FFFD.
+--------------------------------------
+--- Note --- for URL encoding within href use the command line option `url-enc'
+; for hyperlink-less entry use the command line option `url-'
+--------------------------------------
+)
+(/usr/share/texmf/tex/generic/tex4ht/unicode.4ht
+version 2009-02-23-20:45
+)
+(/usr/share/texmf/tex/generic/tex4ht/mathml.4ht
+version 2009-04-18-11:08
+)
+(/usr/share/texmf/tex/generic/tex4ht/ooffice-mml.4ht
+version 2009-06-11-09:32
+))
+(/usr/share/texmf/tex/generic/tex4ht/ooffice.4ht
+version 2009-06-11-09:32
+)
+(/usr/share/texmf/tex/generic/tex4ht/unicode.4ht
+version 2009-02-23-20:45
+)
+(/usr/share/texmf/tex/generic/tex4ht/mathml.4ht
+version 2009-04-18-11:08
+)
+(/usr/share/texmf/tex/generic/tex4ht/ooffice-mml.4ht
+version 2009-06-11-09:32
+)) (./layout.aux
+(./prezentacja.aux))
+\openout1 = `layout.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 18.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 18.
+ (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 18.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-32.1381pt
+* \headheight=14.5pt
+* \headsep=16.5pt
+* \topskip=12.0pt
+* \footskip=29.0pt
+* \marginparwidth=0.0pt
+* \marginparsep=0.0pt
+* \columnsep=25.6802pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+[1]
+\openout2 = `prezentacja.aux'.
+
+ (./prezentacja.tex
+! Undefined control sequence.
+\maketitle ...d {\a:and } \fi \pic:gobble \a:mktl 
+                                                  \o:maketitle: \pic:gobble ...
+l.1 \maketitle
+              
+? 
+! Emergency stop.
+\maketitle ...d {\a:and } \fi \pic:gobble \a:mktl 
+                                                  \o:maketitle: \pic:gobble ...
+l.1 \maketitle
+              
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 70268 strings out of 495242
+ 1415251 string characters out of 6179787
+ 866808 words of memory out of 5000000
+ 73263 multiletter control sequences out of 15000+600000
+ 7375 words of font info for 35 fonts, out of 8000000 for 9000
+ 306 hyphenation exceptions out of 8191
+ 52i,4n,71p,10877b,47136s stack positions out of 5000i,500n,10000p,200000b,80000s
+Output written on layout.xdv (54 pages, 27048 bytes).
