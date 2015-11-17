@@ -1,8 +1,8 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2015.10.25)  12 NOV 2015 23:45
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2015.10.25)  17 NOV 2015 11:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**layout.tex
+**layout
 (./layout.tex
 LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 14 languages loaded.
@@ -1071,15 +1071,15 @@ LaTeX Font Info:    ... okay on input line 19.
 
 (./prezentacja.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 1.
+(Font)              <12> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 1.
+(Font)              <8> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 1.
+(Font)              <6> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 5.
+(Font)              <7> on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 5.
+(Font)              <5> on input line 8.
 
 *************************************************
 * fontspec warning: "script-not-exist-latn"
@@ -1125,15 +1125,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 . and font adjustment code:
 . 
 .................................................
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1
+[1
 
 
-]
-[2] [3]
-Overfull \hbox (2.50464pt too wide) in paragraph at lines 96--97
+] [2] [3]
+Overfull \hbox (2.50464pt too wide) in paragraph at lines 99--100
 []\EU1/AdobeTextPro(0)/m/n/12 — Czy nie słyszałeś? — odpowiedział pytaniem mnic
 h. — Patriarcha kazał wszystkim swoim
  []
@@ -1142,11 +1138,15 @@ h. — Patriarcha kazał wszystkim swoim
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4]
-Overfull \hbox (2.8406pt too wide) in paragraph at lines 120--121
+Overfull \hbox (2.8406pt too wide) in paragraph at lines 131--132
 []\EU1/AdobeTextPro(0)/m/n/12 Sutra Platformy wprowadziła nauki o nagłym oświec
 eniu, jednak podział na pojęcia „ścieżki
  []
 
+
+Underfull \vbox (badness 2096) has occurred while \output is active []
+
+ [5]
 *************************************************
 * xeCJK warning: "CJKfamily-Unknown"
 * 
@@ -1154,39 +1154,43 @@ eniu, jednak podział na pojęcia „ścieżki
 * 
 * Try to use `\setCJKmonofont[...]{...}' to define it.
 *************************************************
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 137
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 147
 .
 (/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmtt.fd
 File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Overfull \hbox (3.20364pt too wide) in paragraph at lines 137--138
+Overfull \hbox (3.20364pt too wide) in paragraph at lines 147--148
 \EU1/AdobeTextPro(0)/m/it/12 Neng)\EU1/AdobeTextPro(0)/m/n/12 . Westport, Conn:
  Hyperion Press. $[][][][] [] [] [] [][][] [] [][][][] [] [][][][][][] [] [][][
 ] [] [][][][][] [] [][][][][][][][] []
  []
 
-[5]
-Overfull \hbox (24.56058pt too wide) in paragraph at lines 141--142
+
+Overfull \hbox (24.56058pt too wide) in paragraph at lines 151--152
 []\EU1/AdobeTextPro(0)/m/n/12 Huineng, \EU1/AdobeTextPro(0)/m/it/12 Sutra Szóst
 ego Patriarchy Zen\EU1/AdobeTextPro(0)/m/n/12 , tłumacz nieznany, $[][][][] [] 
 [] [] [][][] [] [][][] [] [][][] [] [][] [] [][][][][][] []
  []
 
 
-Overfull \hbox (25.51942pt too wide) in paragraph at lines 143--144
+Overfull \hbox (25.51942pt too wide) in paragraph at lines 153--154
 \EU1/AdobeTextPro(0)/m/n/12 utledgeCurzon. $[][][][] [] [] [] [][][][][][][][][
 ][][][][][][][][][][] [] [][][][] [] [][][] [] [][] [] [][][][][][][][][][] [] 
 [][][][][] [] [][][][][][][][] [][]
  []
 
-) [6] (./layout.aux (./prezentacja.aux)) ) 
+)
+Underfull \vbox (badness 1478) has occurred while \output is active []
+
+ [6]
+[7] (./layout.aux (./prezentacja.aux)) ) 
 Here is how much of TeX's memory you used:
- 66513 strings out of 495242
- 1375897 string characters out of 6179787
- 707361 words of memory out of 5000000
- 69603 multiletter control sequences out of 15000+600000
+ 66550 strings out of 495242
+ 1377714 string characters out of 6179787
+ 709361 words of memory out of 5000000
+ 69640 multiletter control sequences out of 15000+600000
  7208 words of font info for 53 fonts, out of 8000000 for 9000
  306 hyphenation exceptions out of 8191
- 46i,7n,69p,10375b,47136s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,7n,69p,10371b,47136s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on layout.pdf (6 pages).
+Output written on layout.pdf (7 pages).
