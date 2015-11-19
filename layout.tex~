@@ -11,7 +11,7 @@
 \g@addto@macro{\UrlBreaks}{\UrlOrds}
 \makeatother
 \setmainfont[Mapping=tex-text]{Adobe Text Pro}
-\setsansfont[Scale=0.88]{Arial}
+\setsansfont[Scale=0.92]{Arial}
 \setCJKmainfont{SimSun}
 \setCJKfamilyfont{korm}{NanumMyeongjo}
 \newcommand{\Korean}{\CJKfamily{korm}\CJKspace}

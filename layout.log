@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2015.10.25)  17 NOV 2015 11:36
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2015.10.25)  19 NOV 2015 10:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -818,52 +818,6 @@ File: xunicode-extra.def 2015/05/15 v3.3.2 extra definition for xunicode
 (/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
 File: xeCJK.cfg 2015/05/15 v3.3.2 Configuration file for xeCJK package
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/xpinyin/xpinyin.sty
-Package: xpinyin 2014/12/24 v2.1 Automatically add pinyin to Chinese characters
-
-\l__xpinyin_tmpa_box=\box44
-\l__xpinyin_tmpb_box=\box45
-.................................................
-. LaTeX info: "xparse/define-environment"
-. 
-. Defining environment 'pinyinscope' with sig. 'O{}' on line 216.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \xpinyin with sig. 'sO{}m' on line 235.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \enablepinyin with sig. '' on line 253.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \disablepinyin with sig. '' on line 263.
-.................................................
-\l__xpinyin_CJKglue_dim=\dimen169
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \pinyin with sig. 'O{}m' on line 446.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \xpinyinsetup with sig. 'm' on line 537.
-.................................................
-
-(/usr/share/texlive/texmf-dist/tex/latex/xpinyin/xpinyin-database.def
-File: xpinyin-database.def 2014/12/24 v2.1 xpinyin database
-)
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setpinyin with sig. 'mm' on line 564.
-.................................................
-)
 (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
@@ -907,14 +861,14 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@cnth=\count136
 \Gm@cntv=\count137
 \c@Gm@tempcnt=\count138
-\Gm@bindingoffset=\dimen170
-\Gm@wd@mp=\dimen171
-\Gm@odd@mp=\dimen172
-\Gm@even@mp=\dimen173
-\Gm@layoutwidth=\dimen174
-\Gm@layoutheight=\dimen175
-\Gm@layouthoffset=\dimen176
-\Gm@layoutvoffset=\dimen177
+\Gm@bindingoffset=\dimen169
+\Gm@wd@mp=\dimen170
+\Gm@odd@mp=\dimen171
+\Gm@even@mp=\dimen172
+\Gm@layoutwidth=\dimen173
+\Gm@layoutheight=\dimen174
+\Gm@layouthoffset=\dimen175
+\Gm@layoutvoffset=\dimen176
 \Gm@dimlist=\toks18
 )
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
@@ -968,7 +922,53 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 . and font adjustment code:
 . 
 .................................................
-\g__fontspec_family_SimSun_int=\count140
+.................................................
+. fontspec info: "no-scripts"
+. 
+. Font Arial does not contain any OpenType `Script' information.
+.................................................
+\g__fontspec_family_Arial_int=\count140
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Arial(0)' created for font 'Arial' with options
+. [Ligatures=TeX,Scale=0.88].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->s*[0.88]"Arial/OT:mapping=tex-text;"
+. 
+. * 'small caps' with NFSS spec.:
+. 
+. and font adjustment code:
+. 
+. 
+. * 'bold' with NFSS spec.:
+. <->s*[0.88]"Arial/B/OT:mapping=tex-text;"
+. 
+. * 'bold small caps' with NFSS spec.:
+. 
+. and font adjustment code:
+. 
+. 
+. * 'italic' with NFSS spec.:
+. <->s*[0.88]"Arial/I/OT:mapping=tex-text;"
+. 
+. * 'small caps' with NFSS spec.:
+. 
+. and font adjustment code:
+. 
+. 
+. * 'bold italic' with NFSS spec.:
+. <->s*[0.88]"Arial/BI/OT:mapping=tex-text;"
+. 
+. * 'bold small caps' with NFSS spec.:
+. 
+. and font adjustment code:
+. 
+.................................................
+\g__fontspec_family_SimSun_int=\count141
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -1006,32 +1006,32 @@ Package csquotes Info: Adjusting default style.
 
 
 Package csquotes Warning: No style for language 'polish'.
-(csquotes)                Using fallback style on input line 19.
+(csquotes)                Using fallback style on input line 21.
 
 Package csquotes Info: Redefining alias 'default' -> 'fallback'.
 (./layout.aux (./prezentacja.aux))
 \openout1 = `layout.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 19.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 19.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 21.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 21.
  (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    ... okay on input line 21.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1076,18 +1076,29 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 2.
+
+*************************************************
+* xeCJK warning: "CJKfamily-Unknown"
+* 
+* Unknown CJK family `\CJKsfdefault' is being ignored.
+* 
+* Try to use `\setCJKsansfont[...]{...}' to define it.
+*************************************************
+LaTeX Font Info:    Font shape `EU1/Arial(0)/m/n' will be
+(Font)              scaled to size 10.56006pt on input line 7.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 8.
-
+LaTeX Font Info:    Font shape `EU1/Arial(0)/m/n' will be
+(Font)              scaled to size 8.80005pt on input line 8.
 *************************************************
 * fontspec warning: "script-not-exist-latn"
 * 
 * Font 'NanumMyeongjo' does not contain script 'CJK'.
 * 'Latin' script used instead.
 *************************************************
-\g__fontspec_family_NanumMyeongjo_int=\count141
+\g__fontspec_family_NanumMyeongjo_int=\count142
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -1129,7 +1140,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 ] [2] [3]
-Overfull \hbox (2.50464pt too wide) in paragraph at lines 99--100
+Overfull \hbox (2.50464pt too wide) in paragraph at lines 94--95
 []\EU1/AdobeTextPro(0)/m/n/12 — Czy nie słyszałeś? — odpowiedział pytaniem mnic
 h. — Patriarcha kazał wszystkim swoim
  []
@@ -1138,15 +1149,12 @@ h. — Patriarcha kazał wszystkim swoim
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4]
-Overfull \hbox (2.8406pt too wide) in paragraph at lines 131--132
+Overfull \hbox (2.8406pt too wide) in paragraph at lines 126--127
 []\EU1/AdobeTextPro(0)/m/n/12 Sutra Platformy wprowadziła nauki o nagłym oświec
 eniu, jednak podział na pojęcia „ścieżki
  []
 
-
-Underfull \vbox (badness 2096) has occurred while \output is active []
-
- [5]
+[5]
 *************************************************
 * xeCJK warning: "CJKfamily-Unknown"
 * 
@@ -1154,43 +1162,46 @@ Underfull \vbox (badness 2096) has occurred while \output is active []
 * 
 * Try to use `\setCJKmonofont[...]{...}' to define it.
 *************************************************
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 147
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 142
 .
 (/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmtt.fd
 File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Overfull \hbox (3.20364pt too wide) in paragraph at lines 147--148
+Overfull \hbox (3.20364pt too wide) in paragraph at lines 142--143
 \EU1/AdobeTextPro(0)/m/it/12 Neng)\EU1/AdobeTextPro(0)/m/n/12 . Westport, Conn:
  Hyperion Press. $[][][][] [] [] [] [][][] [] [][][][] [] [][][][][][] [] [][][
 ] [] [][][][][] [] [][][][][][][][] []
  []
 
 
-Overfull \hbox (24.56058pt too wide) in paragraph at lines 151--152
+Overfull \hbox (24.56058pt too wide) in paragraph at lines 146--147
 []\EU1/AdobeTextPro(0)/m/n/12 Huineng, \EU1/AdobeTextPro(0)/m/it/12 Sutra Szóst
 ego Patriarchy Zen\EU1/AdobeTextPro(0)/m/n/12 , tłumacz nieznany, $[][][][] [] 
 [] [] [][][] [] [][][] [] [][][] [] [][] [] [][][][][][] []
  []
 
 
-Overfull \hbox (25.51942pt too wide) in paragraph at lines 153--154
+Overfull \hbox (25.51942pt too wide) in paragraph at lines 148--149
 \EU1/AdobeTextPro(0)/m/n/12 utledgeCurzon. $[][][][] [] [] [] [][][][][][][][][
 ][][][][][][][][][][] [] [][][][] [] [][][] [] [][] [] [][][][][][][][][][] [] 
 [][][][][] [] [][][][][][][][] [][]
  []
 
-)
-Underfull \vbox (badness 1478) has occurred while \output is active []
 
- [6]
-[7] (./layout.aux (./prezentacja.aux)) ) 
+Overfull \hbox (58.00464pt too wide) in paragraph at lines 156--157
+[]\EU1/AdobeTextPro(0)/m/n/12 Nydahl, Ole. 2010. “Sześć wyzwalających działań”.
+ \EU1/AdobeTextPro(0)/m/it/12 Diamentowa Droga \EU1/AdobeTextPro(0)/m/n/12 34. 
+$[][][][] [] [] [] [][][][][][][][][][][][][][][] []
+ []
+
+[6]) [7] (./layout.aux (./prezentacja.aux)) ) 
 Here is how much of TeX's memory you used:
- 66550 strings out of 495242
- 1377714 string characters out of 6179787
- 709361 words of memory out of 5000000
- 69640 multiletter control sequences out of 15000+600000
- 7208 words of font info for 53 fonts, out of 8000000 for 9000
+ 19310 strings out of 495242
+ 392867 string characters out of 6179787
+ 439431 words of memory out of 5000000
+ 22394 multiletter control sequences out of 15000+600000
+ 7264 words of font info for 60 fonts, out of 8000000 for 9000
  306 hyphenation exceptions out of 8191
- 46i,7n,69p,10371b,47136s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,7n,69p,10371b,247s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on layout.pdf (7 pages).
