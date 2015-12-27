@@ -1,8 +1,8 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2015.10.25)  19 NOV 2015 10:21
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2015.10.25)  27 DEC 2015 14:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**layout
+**layout.tex
 (./layout.tex
 LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 14 languages loaded.
@@ -1006,32 +1006,32 @@ Package csquotes Info: Adjusting default style.
 
 
 Package csquotes Warning: No style for language 'polish'.
-(csquotes)                Using fallback style on input line 21.
+(csquotes)                Using fallback style on input line 23.
 
 Package csquotes Info: Redefining alias 'default' -> 'fallback'.
 (./layout.aux (./prezentacja.aux))
 \openout1 = `layout.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 21.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 23.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 23.
  (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    ... okay on input line 23.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1076,22 +1076,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 2.
-
-*************************************************
-* xeCJK warning: "CJKfamily-Unknown"
-* 
-* Unknown CJK family `\CJKsfdefault' is being ignored.
-* 
-* Try to use `\setCJKsansfont[...]{...}' to define it.
-*************************************************
-LaTeX Font Info:    Font shape `EU1/Arial(0)/m/n' will be
-(Font)              scaled to size 10.56006pt on input line 7.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 8.
-LaTeX Font Info:    Font shape `EU1/Arial(0)/m/n' will be
-(Font)              scaled to size 8.80005pt on input line 8.
+
 *************************************************
 * fontspec warning: "script-not-exist-latn"
 * 
@@ -1139,17 +1128,33 @@ LaTeX Font Info:    Font shape `EU1/Arial(0)/m/n' will be
 [1
 
 
-] [2] [3]
-Overfull \hbox (2.50464pt too wide) in paragraph at lines 94--95
-[]\EU1/AdobeTextPro(0)/m/n/12 — Czy nie słyszałeś? — odpowiedział pytaniem mnic
-h. — Patriarcha kazał wszystkim swoim
+]
+*************************************************
+* xeCJK warning: "CJKfamily-Unknown"
+* 
+* Unknown CJK family `\CJKsfdefault' is being ignored.
+* 
+* Try to use `\setCJKsansfont[...]{...}' to define it.
+*************************************************
+LaTeX Font Info:    Font shape `EU1/Arial(0)/m/n' will be
+(Font)              scaled to size 10.56006pt on input line 28.
+[2] [3]
+Overfull \hbox (17.28864pt too wide) in paragraph at lines 74--75
+[]\EU1/AdobeTextPro(0)/m/n/12 Pewnego dnia młody mnich-akolita przechodził koło
+ stajni, w której pracował akurat Huineng,
+ []
+
+
+Overfull \hbox (5.67578pt too wide) in paragraph at lines 74--75
+\EU1/AdobeTextPro(0)/m/n/12 ponowany przez mnicha o imieniu Shenxiu. Piąty Patr
+iarcha nakazał wszystkim swoim uczniom
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4]
-Overfull \hbox (2.8406pt too wide) in paragraph at lines 126--127
+Overfull \hbox (2.8406pt too wide) in paragraph at lines 105--106
 []\EU1/AdobeTextPro(0)/m/n/12 Sutra Platformy wprowadziła nauki o nagłym oświec
 eniu, jednak podział na pojęcia „ścieżki
  []
@@ -1162,46 +1167,43 @@ eniu, jednak podział na pojęcia „ścieżki
 * 
 * Try to use `\setCJKmonofont[...]{...}' to define it.
 *************************************************
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 142
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 121
 .
 (/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmtt.fd
 File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Overfull \hbox (3.20364pt too wide) in paragraph at lines 142--143
+Overfull \hbox (3.20364pt too wide) in paragraph at lines 121--122
 \EU1/AdobeTextPro(0)/m/it/12 Neng)\EU1/AdobeTextPro(0)/m/n/12 . Westport, Conn:
  Hyperion Press. $[][][][] [] [] [] [][][] [] [][][][] [] [][][][][][] [] [][][
 ] [] [][][][][] [] [][][][][][][][] []
  []
 
 
-Overfull \hbox (24.56058pt too wide) in paragraph at lines 146--147
+Overfull \hbox (24.56058pt too wide) in paragraph at lines 125--126
 []\EU1/AdobeTextPro(0)/m/n/12 Huineng, \EU1/AdobeTextPro(0)/m/it/12 Sutra Szóst
 ego Patriarchy Zen\EU1/AdobeTextPro(0)/m/n/12 , tłumacz nieznany, $[][][][] [] 
 [] [] [][][] [] [][][] [] [][][] [] [][] [] [][][][][][] []
  []
 
 
-Overfull \hbox (25.51942pt too wide) in paragraph at lines 148--149
-\EU1/AdobeTextPro(0)/m/n/12 utledgeCurzon. $[][][][] [] [] [] [][][][][][][][][
-][][][][][][][][][][] [] [][][][] [] [][][] [] [][] [] [][][][][][][][][][] [] 
-[][][][][] [] [][][][][][][][] [][]
- []
-
-
-Overfull \hbox (58.00464pt too wide) in paragraph at lines 156--157
+Overfull \hbox (58.00464pt too wide) in paragraph at lines 135--136
 []\EU1/AdobeTextPro(0)/m/n/12 Nydahl, Ole. 2010. “Sześć wyzwalających działań”.
  \EU1/AdobeTextPro(0)/m/it/12 Diamentowa Droga \EU1/AdobeTextPro(0)/m/n/12 34. 
 $[][][][] [] [] [] [][][][][][][][][][][][][][][] []
  []
 
-[6]) [7] (./layout.aux (./prezentacja.aux)) ) 
+
+Underfull \vbox (badness 1478) has occurred while \output is active []
+
+ [6])
+[7] (./layout.aux (./prezentacja.aux)) ) 
 Here is how much of TeX's memory you used:
- 19310 strings out of 495242
- 392867 string characters out of 6179787
+ 19311 strings out of 495242
+ 392846 string characters out of 6179787
  439431 words of memory out of 5000000
  22394 multiletter control sequences out of 15000+600000
- 7264 words of font info for 60 fonts, out of 8000000 for 9000
- 306 hyphenation exceptions out of 8191
- 46i,7n,69p,10371b,247s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 7256 words of font info for 59 fonts, out of 8000000 for 9000
+ 308 hyphenation exceptions out of 8191
+ 46i,7n,69p,10375b,247s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on layout.pdf (7 pages).
