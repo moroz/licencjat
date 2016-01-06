@@ -1,13 +1,5 @@
 \select@language {polish}
 \contentsline {chapter}{Wprowadzenie}{4}{chapter*.2}
-\contentsline {subsection}{\numberline {0.0.1}Czym jest buddyzm chan?}{4}{subsection.0.0.1}
-\contentsline {chapter}{\numberline {1}Tło historyczne \textit {Sutry Platformy}}{5}{chapter.1}
-\contentsline {section}{\numberline {1.1}Sytuacja polityczna}{5}{section.1.1}
-\contentsline {section}{\numberline {1.2}Przedstawienie postaci Huinenga}{5}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Biografia opisana w \textit {Sutrze Platformy}}{5}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}Wzmianki o Huinengu w zapisach historycznych}{5}{subsection.1.2.2}
-\contentsline {subsection}{\numberline {1.2.3}Biografia Huinenga jako fikcyjna hagiografia}{5}{subsection.1.2.3}
-\contentsline {chapter}{\numberline {2}Analiza \textit {Sutry Platformy}}{6}{chapter.2}
-\contentsline {section}{\numberline {2.1}Przekłady \textit {Sutry Platformy} na język angielski}{6}{section.2.1}
-\contentsline {section}{\numberline {2.2}Budowa formalna}{6}{section.2.2}
-\contentsline {section}{\numberline {2.3}Nauki \textit {Sutry Platformy}}{6}{section.2.3}
+\contentsline {chapter}{\numberline {1}Biografie Huinenga}{5}{chapter.1}
+\contentsline {section}{\numberline {1.1}Biografia Huinenga według \textit {Sutry Platformy}}{5}{section.1.1}
+\contentsline {chapter}{\numberline {2}Analiza tekstu \textit {Sutry Platformy}}{9}{chapter.2}

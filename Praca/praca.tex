@@ -1,4 +1,4 @@
-\documentclass[12pt,brudnopis]{wzmgr}
+\documentclass[12pt]{wzmgr}
 \special{papersize=210mm,297mm}
 % Wersja XeLaTeX
 \usepackage[polish]{babel}
@@ -15,9 +15,11 @@
 \setCJKmainfont{SimSun}
 \setCJKfamilyfont{korm}{NanumMyeongjo}
 \newcommand{\Korean}{\CJKfamily{korm}\CJKspace}
-\newcommand{\pinyin}[1]{\textsf{#1}}
+\newcommand{\toponim}[1]{\textsf{#1}}
+\newcommand{\pinyin}[1]{\textit{#1}}
+\newcommand{\fnm}{\footnotemark}
 \author{Karol Moroz}
-\title{Wizja medytacji w Sutrze Platformy Szóstego Patriarchy Huineng}
+\title{Nauki Sutry Platformy Szóstego Patriarchy Huineng}
 \nralbumu{386956}
 \kierunek{sinologia}
 \opiekun{mgr Kamil Burkiewicz}
@@ -27,9 +29,12 @@
 \miejsce{Poznań}
 \begin{document}
 
-%\onehalfspacing
+\onehalfspacing
 %\frenchspacing
 \maketitle
 \input{introduction}
-\input{stub}
+\input{chapter_one}
+\input{chapter_two}
+\include{bibliography}
+%\input{stub}
 \end{document}
