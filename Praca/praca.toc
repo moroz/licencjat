@@ -1,5 +1,6 @@
 \select@language {polish}
 \contentsline {chapter}{Wprowadzenie}{4}{chapter*.2}
-\contentsline {chapter}{\numberline {1}Biografie Huinenga}{5}{chapter.1}
-\contentsline {section}{\numberline {1.1}Biografia Huinenga według \textit {Sutry Platformy}}{5}{section.1.1}
-\contentsline {chapter}{\numberline {2}Analiza tekstu \textit {Sutry Platformy}}{9}{chapter.2}
+\contentsline {section}{\numberline {0.1}Pochodzenie \textit {Sutry Platformy} oraz jej przekłady na język angielski}{4}{section.0.1}
+\contentsline {chapter}{\numberline {1}Biografie Huinenga}{7}{chapter.1}
+\contentsline {section}{\numberline {1.1}Biografia Huinenga według \textit {Sutry Platformy}}{7}{section.1.1}
+\contentsline {chapter}{\numberline {2}Analiza tekstu \textit {Sutry Platformy}}{11}{chapter.2}
