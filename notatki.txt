@@ -14,3 +14,9 @@ Stopniowa ścieżka, opisana w tekstach tradycji Dongshan (Eastern Mountain, alb
 看心
 觀淨
 守心
+
+\textit{Laṅkāvatāra}
+\textit{Annały przekazu skarbu Dharmy} (傳法寶紀 \pinyin{Chuán fǎbǎo jì}),
+\textit{Zapisy ludzi i metod w przekazie Sutry Laṅkāvatāra} (楞伽人法誌 \pinyin{Léngqié rén fǎ zhì})
+\textit{Zapisy mistrzów i uczniów w przekazie Sutry Laṅkāvatāra} (楞伽師資記 \pinyin{Léngqié shīzī jì})
+\textit{Kontynuowane biografie wybitnych mnichów} (續高僧傳 \pinyin{Xù gāosēng zhuàn})
