@@ -2,5 +2,9 @@
 \contentsline {chapter}{Wprowadzenie}{4}{chapter*.2}
 \contentsline {section}{\numberline {0.1}Pochodzenie \textit {Sutry Platformy} oraz jej przekłady na język angielski}{4}{section.0.1}
 \contentsline {chapter}{\numberline {1}Biografie Huinenga}{7}{chapter.1}
-\contentsline {section}{\numberline {1.1}Biografia Huinenga według \textit {Sutry Platformy}}{7}{section.1.1}
-\contentsline {chapter}{\numberline {2}Analiza tekstu \textit {Sutry Platformy}}{11}{chapter.2}
+\contentsline {section}{\numberline {1.1}Biografia Huinenga według \textit {Sutry Platformy} w wersji z Dunhuang}{7}{section.1.1}
+\contentsline {section}{\numberline {1.2}Analiza biografii Huinenga zawartej w tekście \textit {Sutry Platformy} z Dunhuang}{10}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Wiersze Shenxiu i Huinenga}{11}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Analogie do biografii Konfucjusza}{11}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Analogia do dzieł szkoły Niutou}{11}{subsection.1.2.3}
+\contentsline {chapter}{\numberline {2}Analiza tekstu \textit {Sutry Platformy}}{12}{chapter.2}
