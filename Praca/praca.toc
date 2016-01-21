@@ -4,7 +4,7 @@
 \contentsline {chapter}{\numberline {1}Biografie Huinenga}{6}{chapter.1}
 \contentsline {section}{\numberline {1.1}Biografia Huinenga według \textit {Sutry Platformy} w wersji z Dunhuang}{6}{section.1.1}
 \contentsline {section}{\numberline {1.2}Analiza biografii Huinenga zawartej w tekście \textit {Sutry Platformy} z Dunhuang}{10}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Wiersze Shenxiu i Huinenga}{11}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}Analogie do biografii Konfucjusza}{12}{subsection.1.2.2}
-\contentsline {subsection}{\numberline {1.2.3}Analogia do dzieł szkoły Niutou}{13}{subsection.1.2.3}
-\contentsline {chapter}{\numberline {2}Analiza tekstu \textit {Sutry Platformy}}{14}{chapter.2}
+\contentsline {subsection}{\numberline {1.2.1}Wiersze Shenxiu i Huinenga}{12}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Analogie do biografii Konfucjusza}{13}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Analogia do dzieł szkoły Niutou}{14}{subsection.1.2.3}
+\contentsline {chapter}{\numberline {2}Analiza tekstu \textit {Sutry Platformy}}{15}{chapter.2}
