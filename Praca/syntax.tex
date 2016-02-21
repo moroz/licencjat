@@ -1,0 +1,32 @@
+\section{Nota o składni \LaTeX}
+Niniejsza praca została złożona do druku przy użyciu systemu \LaTeX. W telegraficznym skrócie, system ten przetwarza pliki tekstowe na PDF. Głównym plikiem źródłowym jest \verb_praca.tex_ Większość potrzebnych znaków można po prostu wstawić do pliku, pod warunkiem, że są zakodowane w UTF-8:
+
+Zażółć gęślą jaźń.
+
+居則曰：毋吾知也。如或知爾，則何以哉？
+
+Polskie cudzysłowy: \verb_,,dwa przecinki i dwa apostrofy''_: w ,,dwutysięcznym jedenastym'' padł najbardziej przekonywujący argument / i że zwłaszcza ,,drugi maj'' dał asumpt / i że to ,,wyłancza'' wszelkie dyskusje w tym ,,okresie czasu'' / i że to w ,,cudzysłowiu'' killer / słucham i czuję, że jeszcze jedno zdanie i będę miał wylew.
+
+\LaTeX traktuje pojedynczy znak nowej linii jako odstęp, dwa lub więcej znaków nowej linii jako przejście do nowego akapitu (z wcięciem), wiele odstępów --- jako jeden odstęp. Przejście do nowej linii bez rozpoczęcia nowego akapitu zaznacza się komendą \verb_\\_ (backslash backslash).
+
+Myślniki: N-myślnik -- (\textit{N-dash}): \verb_--_, M-myślnik --- (\textit{M-dash}): \verb_---_. W środku słowa znak minusa: kogel-mogel.
+
+Formatowanie zapisuje się za pomocą makr/znaczników, zaczynających się znakiem \verb_\_:
+
+\begin{description}
+\item[Pogrubienie:] \verb_\textbf{ tekst }_ lub w bloku \verb_{ \bfseries tekst }_ (pierwszy wariant pogrubia tekst podany w nawiasach klamrowych \verb_{_ \ldots{} \verb_}_, drugi pogrubia całą zawartość bloku:
+
+\begin{verbatim}
+\textbf{Oto pogrubienie }
+{\bfseries A to pogrubienie w bloku}
+\end{verbatim}
+\textbf{Oto pogrubienie }
+{\bfseries A to pogrubienie w bloku}
+
+\item[Pismo pochyłe/kursywa:] \verb_\textit{ tekst }_ lub w bloku \verb_{ \itshape tekst }_. Sposób użycia analogiczny do pogrubienia.
+
+\item[Podział dokumentu:] \verb_\chapter{ }_, \verb_\section{ }_, \verb_\subsection{ }_, \verb_\paragraph{ }_.
+
+\item[Komentarze redaktora:] (własna komenda, zadeklarowana w pliku praca.tex):\\\verb_\komentarz{Jakiś tekst}_: \komentarz{Pchnąć w tę łódź jeża lub ośm skrzyń fig.}
+
+\end{description}

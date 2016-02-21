@@ -7,6 +7,7 @@
 \usepackage{setspace,etoolbox,csquotes,indentfirst}
 \usepackage[top=2.5cm,left=2.5cm,right=2.5cm,bottom=2.5cm]{geometry}
 \usepackage{url}
+\usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
 \makeatletter
 \g@addto@macro{\UrlBreaks}{\UrlOrds}
 \makeatother
@@ -14,10 +15,13 @@
 \setsansfont[Scale=0.88]{Arial}
 \setCJKmainfont{Droid Sans Fallback}
 \setCJKfamilyfont{korm}{NanumMyeongjo}
+\newtoggle{brudnopis}
+\togglefalse{brudnopis} % change \toggletrue to \togglefalse to disable comments
 \newcommand{\Korean}{\CJKfamily{korm}\CJKspace}
 \newcommand{\toponim}[1]{\textsf{#1}}
 \newcommand{\pinyin}[1]{\textit{#1}}
 \newcommand{\fnm}{\footnotemark}
+\newcommand{\komentarz}[1]{\iftoggle{brudnopis}{\colorbox{Red}{#1}}}
 \author{Karol Moroz}
 \title{Nauki Sutry Platformy Szóstego Patriarchy Huineng}
 \nralbumu{386956}
@@ -32,6 +36,7 @@
 
 \onehalfspacing
 %\frenchspacing
+\iftoggle{brudnopis}{\input{syntax}}
 \maketitle
 \input{introduction}
 \input{chapter_one}

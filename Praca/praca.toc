@@ -6,5 +6,4 @@
 \contentsline {section}{\numberline {1.2}Analiza biografii Huinenga zawartej w tekście \textit {Sutry Platformy} z Dunhuang}{10}{section.1.2}
 \contentsline {subsection}{\numberline {1.2.1}Wiersze Shenxiu i Huinenga}{13}{subsection.1.2.1}
 \contentsline {subsection}{\numberline {1.2.2}Analogie do biografii Konfucjusza}{13}{subsection.1.2.2}
-\contentsline {subsection}{\numberline {1.2.3}Analogia do dzieł szkoły Niutou}{14}{subsection.1.2.3}
 \contentsline {chapter}{\numberline {2}Analiza tekstu \textit {Sutry Platformy}}{15}{chapter.2}
