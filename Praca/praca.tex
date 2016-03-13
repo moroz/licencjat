@@ -13,12 +13,13 @@
 \makeatother
 \setmainfont[Mapping=tex-text]{Times New Roman}
 \setsansfont[Scale=0.88]{Arial}
-\setCJKmainfont{Droid Sans Fallback}
+\setCJKmainfont{SimSun}
 \setCJKfamilyfont{korm}{NanumMyeongjo}
 \newtoggle{brudnopis}
 \togglefalse{brudnopis} % change \toggletrue to \togglefalse to disable comments
 \newcommand{\Korean}{\CJKfamily{korm}\CJKspace}
 \newcommand{\toponim}[1]{\textsf{#1}}
+\newcommand{\nazwisko}[1]{#1}
 \newcommand{\pinyin}[1]{\textit{#1}}
 \newcommand{\fnm}{\footnotemark}
 \newcommand{\komentarz}[1]{\iftoggle{brudnopis}{\colorbox{Red}{#1}}}
