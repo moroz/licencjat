@@ -3,7 +3,7 @@
 % Wersja XeLaTeX
 \usepackage[polish]{babel}
 \usepackage[no-math]{fontspec}
-\usepackage{xeCJK}
+\usepackage{xeCJK,makeidx}
 \usepackage{setspace,etoolbox,csquotes,indentfirst}
 \usepackage[top=2.5cm,left=2.5cm,right=2.5cm,bottom=2.5cm]{geometry}
 \usepackage{url}
@@ -35,11 +35,13 @@
 \nrwersji{0.0}
 \miejsce{Poznań}
 %\hyphenation{ La\.n-kā-va-tā-ra}
+\makeindex
 \begin{document}
 \onehalfspacing
 \maketitle
 \input{introduction}
 \input{chapter_one}
 \input{chapter_two}
+\printindex
 \include{bibliography}
 \end{document}
