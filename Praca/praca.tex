@@ -11,13 +11,15 @@
 \makeatletter
 \g@addto@macro{\UrlBreaks}{\UrlOrds}
 \makeatother
-\setmainfont[Mapping=tex-text]{Times New Roman}
-\setsansfont[Scale=0.88]{Arial}
+\setmainfont[Mapping=tex-text]{Adobe Text Pro}
+\setsansfont[Scale=0.88]{TeX Gyre Heros}
 \setCJKmainfont{SimSun}
-\setCJKfamilyfont{korm}{NanumMyeongjo}
+\setCJKsansfont{SimHei}
+\setCJKmonofont{SimHei}
+\newfontfamily\korm{NanumMyeongjo}
 \newtoggle{brudnopis}
 \togglefalse{brudnopis} % change \toggletrue to \togglefalse to disable comments
-\newcommand{\Korean}{\CJKfamily{korm}\CJKspace}
+\newcommand{\Korean}{\korm\CJKspace}
 \newcommand{\toponim}[1]{\textsf{#1}}
 \newcommand{\nazwisko}[1]{#1}
 \newcommand{\pinyin}[1]{\textit{#1}}
@@ -34,14 +36,10 @@
 \miejsce{Poznań}
 %\hyphenation{ La\.n-kā-va-tā-ra}
 \begin{document}
-
 \onehalfspacing
-%\frenchspacing
-\iftoggle{brudnopis}{\input{syntax}}
 \maketitle
 \input{introduction}
 \input{chapter_one}
 \input{chapter_two}
 \include{bibliography}
-%\input{stub}
 \end{document}
