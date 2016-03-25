@@ -12,13 +12,16 @@
 \g@addto@macro{\UrlBreaks}{\UrlOrds}
 \makeatother
 \setmainfont[Mapping=tex-text]{Adobe Text Pro}
-\setsansfont[Scale=0.88]{TeX Gyre Heros}
+\setsansfont[Scale=0.88]{IPAexGothic}
 \setCJKmainfont{SimSun}
 \setCJKsansfont{SimHei}
 \setCJKmonofont{SimHei}
-\newfontfamily\korm{NanumMyeongjo}
-\newtoggle{brudnopis}
+\newCJKfontfamily{\ipaexgothic}{IPAexGothic}
+\newCJKfontfamily{\korm}{NanumMyeongjo}
+\newtoggle{brudnopis}\newtoggle{prowincjepy}
 \togglefalse{brudnopis} % change \toggletrue to \togglefalse to disable comments
+\toggletrue{prowincjepy}
+\newcommand{\prowincja}[1]{\iftoggle{prowincjepy}{ (#1)}{}}
 \newcommand{\Korean}{\korm\CJKspace}
 \newcommand{\toponim}[1]{\textsf{#1}}
 \newcommand{\nazwisko}[1]{#1}
