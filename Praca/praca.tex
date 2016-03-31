@@ -11,7 +11,7 @@
 \makeatletter
 \g@addto@macro{\UrlBreaks}{\UrlOrds}
 \makeatother
-\setmainfont[Mapping=tex-text]{Adobe Text Pro}
+\setmainfont[Mapping=tex-text]{Minion Pro}
 \setsansfont[Scale=0.88]{IPAexGothic}
 \setCJKmainfont{SimSun}
 \setCJKsansfont{SimHei}
@@ -24,8 +24,8 @@
 \newcommand{\prowincja}[1]{\iftoggle{prowincjepy}{ (#1)}{}}
 \newcommand{\Korean}{\korm\CJKspace}
 \newcommand{\toponim}[1]{\textsf{#1}}
-\newcommand{\nazwisko}[1]{#1}
-\newcommand{\pinyin}[1]{\textit{#1}}
+\newcommand{\nazwisko}[1]{\textsf{#1}}
+\newcommand{\pinyin}[1]{\textsf{\itshape #1}}
 \newcommand{\fnm}{\footnotemark}
 \newcommand{\komentarz}[1]{\iftoggle{brudnopis}{\colorbox{Red}{#1}}}
 \author{Karol Moroz}
