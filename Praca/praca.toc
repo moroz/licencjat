@@ -1,4 +1,4 @@
-\select@language {polish}
+\select@language {english}
 \contentsline {chapter}{Wprowadzenie}{4}{chapter*.2}
 \contentsline {section}{\numberline {0.1}Pochodzenie \textit {Sutry Platformy} oraz jej przekłady na język angielski}{4}{section.0.1}
 \contentsline {section}{\numberline {0.2}Wstęp techniczny}{5}{section.0.2}
@@ -6,8 +6,15 @@
 \contentsline {section}{\numberline {1.1}Biografia Huinenga według \textit {Sutry Platformy} w wersji z Dunhuang}{7}{section.1.1}
 \contentsline {section}{\numberline {1.2}Analiza biografii Huinenga zawartej w tekście \textit {Sutry Platformy} z Dunhuang}{11}{section.1.2}
 \contentsline {subsection}{\numberline {1.2.1}Wiersze Shenxiu i Huinenga}{14}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}Analogie do biografii Konfucjusza}{15}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.2}Analogie do biografii Konfucjusza}{14}{subsection.1.2.2}
 \contentsline {chapter}{\numberline {2}Analiza tekstu \textit {Sutry Platformy}}{17}{chapter.2}
 \contentsline {section}{\numberline {2.1}Budowa Sutry}{17}{section.2.1}
 \contentsline {section}{\numberline {2.2}Nauki o medytacji}{17}{section.2.2}
 \contentsline {section}{\numberline {2.3}Bezforemne nauki}{18}{section.2.3}
+\contentsline {chapter}{\numberline {3}Historyczne reperkusje \textit {Sutry platformy}}{20}{chapter.3}
+\contentsline {chapter}{Streszczenia}{21}{chapter.3}
+\contentsline {section}{Streszczenie w języku polskim}{21}{section*.3}
+\select@language {english}
+\contentsline {section}{Abstract in English}{22}{section*.4}
+\select@language {english}
+\contentsline {section}{中文摘要}{23}{section*.5}
