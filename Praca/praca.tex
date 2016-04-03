@@ -18,14 +18,15 @@
 \setCJKmonofont{SimHei}
 \newCJKfontfamily{\ipaexgothic}{IPAexGothic}
 \newCJKfontfamily{\korm}{NanumMyeongjo}
+\newfontfamily\pyfont{Times New Roman}
 \newtoggle{brudnopis}\newtoggle{prowincjepy}
 \togglefalse{brudnopis} % change \toggletrue to \togglefalse to disable comments
 \toggletrue{prowincjepy}
 \newcommand{\prowincja}[1]{\iftoggle{prowincjepy}{ (#1)}{}}
 \newcommand{\Korean}{\korm\CJKspace}
-\newcommand{\toponim}[1]{\textsf{#1}}
-\newcommand{\nazwisko}[1]{\textsf{#1}}
-\newcommand{\pinyin}[1]{\textsf{\itshape #1}}
+\newcommand{\toponim}[1]{{\pyfont #1}}
+\newcommand{\nazwisko}[1]{{\pyfont #1}}
+\newcommand{\pinyin}[1]{{\pyfont\itshape #1}}
 \newcommand{\fnm}{\footnotemark}
 \newcommand{\komentarz}[1]{\iftoggle{brudnopis}{\colorbox{Red}{#1}}}
 \author{Karol Moroz}
