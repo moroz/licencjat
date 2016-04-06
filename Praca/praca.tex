@@ -1,9 +1,10 @@
 \documentclass[12pt]{wzmgr}
 \special{papersize=210mm,297mm}
 % Wersja XeLaTeX
-\usepackage[polish,english]{babel}
+\usepackage[polish]{babel}
 \usepackage[no-math]{fontspec}
-\usepackage{xeCJK,makeidx}
+\usepackage{xeCJK,makeidx,sectsty}
+\usepackage[compact]{titlesec}
 \usepackage{setspace,etoolbox,csquotes,indentfirst}
 \usepackage[top=2.5cm,left=2.5cm,right=2.5cm,bottom=2.5cm]{geometry}
 \usepackage{url}
@@ -29,6 +30,7 @@
 \newcommand{\pinyin}[1]{{\pyfont\itshape #1}}
 \newcommand{\fnm}{\footnotemark}
 \newcommand{\komentarz}[1]{\iftoggle{brudnopis}{\colorbox{Red}{#1}}}
+\newcommand{\glosref}[2]{\footnote{\textbf{#1} --- patrz: \textit{Glosariusz} na stronie \pageref{#2}.}}
 \author{Karol Moroz}
 \title{Narodziny legendy\\Sutra Platformy Szóstego Patriarchy Huineng}
 \nralbumu{386956}
@@ -40,13 +42,19 @@
 \miejsce{Poznań}
 %\hyphenation{ La\.n-kā-va-tā-ra}
 \makeindex
+
 \begin{document}
 \onehalfspacing
 \maketitle
+\titleformat{\chapter}[hang]
+  {\normalfont\huge\color[HTML]{000099}}{{\thechapter}}{20pt}{}
+\titlespacing{\chapter}{0pt}{0.5em}{0.5em}
+\sectionfont{\color[HTML]{990000}}
 \input{introduction}
 \input{chapter_one}
 \input{chapter_two}
 \input{chapter_three}
+\input{glosariusz}
 \input{abstract}
 % \printindex
 \include{bibliography}
