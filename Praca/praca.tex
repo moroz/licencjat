@@ -29,8 +29,7 @@
 \newcommand{\nazwisko}[1]{{\pyfont #1}}
 \newcommand{\pinyin}[1]{{\pyfont\itshape #1}}
 \newcommand{\fnm}{\footnotemark}
-\newcommand\glos[2][]{\tikz[overlay]\node[inner sep=2pt, anchor=text, rectangle, draw=blue, dotted, thick, #1] {#2};\phantom{#2}}
-\newcommand{\komentarz}[1]{\iftoggle{brudnopis}{\colorbox{Red}{#1}}}
+\newcommand\glos[2][]{\hspace*{1.5pt}\tikz[overlay]\node[inner sep=1.5pt, anchor=text, rectangle, draw=blue, dotted, thick, #1] {#2};\phantom{#2}\hspace*{1.5pt}}
 % \newcommand{\glosref}[2]{\footnote{\textbf{#1} --- patrz: \textit{Glosariusz} na stronie \pageref{#2}.}}
 \newcommand{\glosref}[2]{}
 \author{Karol Moroz}
