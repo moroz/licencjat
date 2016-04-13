@@ -12,7 +12,3 @@
 \contentsline {section}{\numberline {2.1}Budowa Sutry}{18}{section.2.1}
 \contentsline {section}{\numberline {2.2}Nauki o medytacji}{18}{section.2.2}
 \contentsline {section}{\numberline {2.3}Bezforemne nauki}{19}{section.2.3}
-\contentsline {chapter}{\numberline {3}Historyczne reperkusje \textit {Sutry platformy}}{22}{chapter.3}
-\contentsline {chapter}{Streszczenie w języku polskim}{23}{chapter*.3}
-\contentsline {chapter}{Abstract in English}{24}{chapter*.4}
-\contentsline {chapter}{中文摘要}{25}{chapter*.5}
