@@ -6,9 +6,8 @@
 \usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
 \usepackage{xeCJK,makeidx,sectsty}
 \usepackage[compact]{titlesec}
-\usepackage{setspace,etoolbox,csquotes,indentfirst,tikz}
+\usepackage{setspace,etoolbox,csquotes,indentfirst,url,hyphenat}
 \usepackage[top=2.5cm,left=2.5cm,right=2.5cm,bottom=2.5cm]{geometry}
-\usepackage{url}
 \makeatletter
 \g@addto@macro{\UrlBreaks}{\UrlOrds}
 \makeatother
@@ -22,16 +21,11 @@
 \newfontfamily\pyfont{Times New Roman}
 \newtoggle{brudnopis}\newtoggle{prowincjepy}
 \togglefalse{brudnopis} % change \toggletrue to \togglefalse to disable comments
-\toggletrue{prowincjepy}
-\newcommand{\prowincja}[1]{\iftoggle{prowincjepy}{ (#1)}{}}
 \newcommand{\Korean}{\korm\CJKspace}
-\newcommand{\toponim}[1]{{\pyfont #1}}
-\newcommand{\nazwisko}[1]{{\pyfont #1}}
-\newcommand{\pinyin}[1]{{\pyfont\itshape #1}}
+\newcommand{\toponim}[1]{\nohyphens{\pyfont #1}}
+\newcommand{\nazwisko}[1]{\nohyphens{\pyfont #1}}
+\newcommand{\pinyin}[1]{\nohyphens{\pyfont\itshape #1}}
 \newcommand{\fnm}{\footnotemark}
-\newcommand\glos[2][]{\hspace*{1.5pt}\tikz[overlay]\node[inner sep=1.5pt, anchor=text, rectangle, draw=blue, dotted, thick, #1] {#2};\phantom{#2}\hspace*{1.5pt}}
-% \newcommand{\glosref}[2]{\footnote{\textbf{#1} --- patrz: \textit{Glosariusz} na stronie \pageref{#2}.}}
-\newcommand{\glosref}[2]{}
 \author{Karol Moroz}
 \title{Narodziny legendy\\Sutra Platformy Szóstego Patriarchy Huineng}
 \nralbumu{386956}
@@ -42,7 +36,6 @@
 \nrwersji{0.0}
 \miejsce{Poznań}
 %\hyphenation{ La\.n-kā-va-tā-ra}
-\makeindex
 
 \begin{document}
 \onehalfspacing
@@ -55,7 +48,6 @@
 \input{chapter_one}
 \input{chapter_two}
 \input{chapter_three}
-\input{glosariusz}
 \input{abstract}
 % \printindex
 \include{bibliography}
