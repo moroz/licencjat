@@ -1,12 +1,11 @@
 \documentclass[12pt]{wzmgr}
 \special{papersize=210mm,297mm}
-% Wersja XeLaTeX
 \usepackage[polish]{babel}
 \usepackage[no-math]{fontspec}
 \usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
 \usepackage{xeCJK,makeidx,sectsty}
 \usepackage[compact]{titlesec}
-\usepackage{setspace,etoolbox,csquotes,indentfirst,url,hyphenat}
+\usepackage{setspace,indentfirst,url,hyphenat}
 \usepackage[top=2.5cm,left=2.5cm,right=2.5cm,bottom=2.5cm]{geometry}
 \makeatletter
 \g@addto@macro{\UrlBreaks}{\UrlOrds}
@@ -19,8 +18,6 @@
 \newCJKfontfamily{\ipaexgothic}{IPAexGothic}
 \newCJKfontfamily{\korm}{NanumMyeongjo}
 \newfontfamily\pyfont{Times New Roman}
-\newtoggle{brudnopis}\newtoggle{prowincjepy}
-\togglefalse{brudnopis} % change \toggletrue to \togglefalse to disable comments
 \newcommand{\Korean}{\korm\CJKspace}
 \newcommand{\toponim}[1]{\nohyphens{\pyfont #1}}
 \newcommand{\nazwisko}[1]{\nohyphens{\pyfont #1}}
