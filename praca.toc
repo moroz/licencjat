@@ -2,7 +2,7 @@
 \contentsline {chapter}{Wprowadzenie}{4}{chapter*.2}
 \contentsline {section}{\numberline {0.1}Wstęp techniczny}{4}{section.0.1}
 \contentsline {section}{\numberline {0.2}Przedstawienie buddyzmu Chan}{4}{section.0.2}
-\contentsline {section}{\numberline {0.3}Pochodzenie \textit {Sutry Platformy} oraz jej przekłady na język angielski}{6}{section.0.3}
+\contentsline {section}{\numberline {0.3}Pochodzenie \textit {Sutry platformy} oraz jej przekłady na język angielski}{6}{section.0.3}
 \contentsline {chapter}{\numberline {1}Biografie Huinenga}{8}{chapter.1}
 \contentsline {section}{\numberline {1.1}Biografia Huinenga według \textit {Sutry Platformy} w wersji z Dunhuang}{8}{section.1.1}
 \contentsline {section}{\numberline {1.2}Analiza biografii Huinenga zawartej w tekście \textit {Sutry Platformy} z Dunhuang}{12}{section.1.2}
