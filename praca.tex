@@ -5,7 +5,8 @@
 \usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
 \usepackage{xeCJK,makeidx,sectsty}
 \usepackage[compact]{titlesec}
-\usepackage{setspace,indentfirst,url,hyphenat}
+\usepackage{setspace}
+\usepackage{indentfirst,url,hyphenat}
 \usepackage[top=2.5cm,left=2.5cm,right=2.5cm,bottom=2.5cm]{geometry}
 \makeatletter
 \g@addto@macro{\UrlBreaks}{\UrlOrds}
@@ -13,8 +14,8 @@
 \setmainfont[Mapping=tex-text]{Minion Pro}
 \setsansfont[Scale=0.88]{IPAexGothic}
 \setCJKmainfont{SimSun}
-\setCJKsansfont{SimHei}
-\setCJKmonofont{SimHei}
+\setCJKsansfont{SimSun}
+\setCJKmonofont{SimSun}
 \newCJKfontfamily{\ipaexgothic}{IPAexGothic}
 \newCJKfontfamily{\korm}{NanumMyeongjo}
 \newfontfamily\pyfont{Times New Roman}
@@ -36,7 +37,7 @@
 %\hyphenation{ La\.n-kā-va-tā-ra}
 
 \begin{document}
-\onehalfspacing
+\spacing{1.25}
 \maketitle
 \titleformat{\chapter}[hang]
   {\normalfont\huge\color[HTML]{000099}}{{\thechapter}}{20pt}{}
