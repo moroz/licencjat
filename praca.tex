@@ -33,11 +33,11 @@
 \input{titlepage}
 \tableofcontents
 \titleformat{\chapter}[hang]
-  {\normalfont\huge\color[HTML]{000099}}{{\thechapter}}{20pt}{}
+  {\normalfont\huge}{{\thechapter}}{20pt}{}
 \titlespacing{\chapter}{0pt}{0.5em}{0.5em}
-\sectionfont{\color[HTML]{990000}}
-\input{introduction}
-\input{chapter_one}
-\input{chapter_two}
+\sectionfont{}
+\include{introduction}
+\include{chapter_one}
+\include{chapter_two}
 \include{bibliography}
 \end{document}
