@@ -1,16 +1,16 @@
-\documentclass[12pt]{wzmgr}
+\documentclass[12pt,a4paper,oneside]{book}
 \special{papersize=210mm,297mm}
 \usepackage[polish]{babel}
 \usepackage[no-math]{fontspec}
 \usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
 \usepackage{xeCJK,makeidx,sectsty}
 \usepackage[compact]{titlesec}
-\usepackage{setspace}
+\usepackage{setspace,url}
 \usepackage{indentfirst,hyphenat}
-\usepackage[top=2.5cm,left=2.5cm,right=2.5cm,bottom=2.5cm]{geometry}
-\makeatletter
-\g@addto@macro{\UrlBreaks}{\UrlOrds}
-\makeatother
+\usepackage[top=2.5cm,left=3.5cm,right=2.5cm,bottom=2.5cm]{geometry}
+% \makeatletter
+% \g@addto@macro{\UrlBreaks}{\UrlOrds}
+% \makeatother
 \setmainfont[Mapping=tex-text]{Minion Pro}
 \setsansfont[Scale=0.88]{IPAexGothic}
 \setCJKmainfont{SimSun}
@@ -27,17 +27,11 @@
 \newcommand{\ibid}{ (\textit{Ibidem}).}
 \author{Karol Moroz}
 \title{Narodziny legendy.\\Sutra Platformy Szóstego Patriarchy Chan}
-\nralbumu{386956}
-\kierunek{sinologia}
-\opiekun{dr Maria Kurpaska}
-\email{dmuhafc@gmail.com}
-\UniversityName{Uniwersytet im. Adama Mickiewicza --- Wydział Neofilologii}
-\nrwersji{0.0}
-\miejsce{Poznań}
 
 \begin{document}
 \spacing{1.25}
 \maketitle
+\tableofcontents
 \titleformat{\chapter}[hang]
   {\normalfont\huge\color[HTML]{000099}}{{\thechapter}}{20pt}{}
 \titlespacing{\chapter}{0pt}{0.5em}{0.5em}
