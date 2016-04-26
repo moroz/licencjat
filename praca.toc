@@ -1,17 +1,17 @@
 \select@language {polish}
-\contentsline {chapter}{Wprowadzenie}{2}
-\contentsline {section}{\numberline {0.1}Wstęp techniczny}{2}
-\contentsline {section}{\numberline {0.2}Przedstawienie buddyzmu Chan}{2}
-\contentsline {section}{\numberline {0.3}Pochodzenie \textit {Sutry platformy} oraz jej przekłady na język angielski}{4}
-\contentsline {chapter}{\numberline {1}Biografie Huinenga}{6}
-\contentsline {section}{\numberline {1.1}Biografia Huinenga według \textit {Sutry Platformy} w wersji z Dunhuang}{6}
-\contentsline {section}{\numberline {1.2}Analiza biografii Huinenga zawartej w tekście \textit {Sutry Platformy} z Dunhuang}{10}
-\contentsline {subsection}{\numberline {1.2.1}Wiersze Shenxiu i Huinenga}{13}
-\contentsline {subsection}{\numberline {1.2.2}Analogie do biografii Konfucjusza}{14}
-\contentsline {chapter}{\numberline {2}Analiza tekstu \textit {Sutry Platformy}}{16}
-\contentsline {section}{\numberline {2.1}Budowa Sutry}{16}
-\contentsline {section}{\numberline {2.2}Nauki o medytacji}{16}
-\contentsline {section}{\numberline {2.3}Bezforemne nauki}{17}
-\contentsline {section}{\numberline {2.4}Opowieści o uczniach Huinenga}{21}
-\contentsline {section}{\numberline {2.5}Nauki przekazane dziesięciu głównym uczniom}{24}
-\contentsline {section}{\numberline {2.6}Śmierć Huinenga i jej następstwa}{25}
+\contentsline {chapter}{Wprowadzenie}{3}
+\contentsline {section}{\numberline {0.1}Wstęp techniczny}{3}
+\contentsline {section}{\numberline {0.2}Przedstawienie buddyzmu Chan}{3}
+\contentsline {section}{\numberline {0.3}Pochodzenie \textit {Sutry platformy} oraz jej przekłady na język angielski}{5}
+\contentsline {chapter}{\numberline {1}Biografie Huinenga}{8}
+\contentsline {section}{\numberline {1.1}Biografia Huinenga według \textit {Sutry Platformy} w wersji z Dunhuang}{8}
+\contentsline {section}{\numberline {1.2}Analiza biografii Huinenga zawartej w tekście \textit {Sutry Platformy} z Dunhuang}{12}
+\contentsline {subsection}{\numberline {1.2.1}Wiersze Shenxiu i Huinenga}{15}
+\contentsline {subsection}{\numberline {1.2.2}Analogie do biografii Konfucjusza}{16}
+\contentsline {chapter}{\numberline {2}Analiza tekstu \textit {Sutry Platformy}}{18}
+\contentsline {section}{\numberline {2.1}Budowa Sutry}{18}
+\contentsline {section}{\numberline {2.2}Nauki o medytacji}{18}
+\contentsline {section}{\numberline {2.3}Bezforemne nauki}{19}
+\contentsline {section}{\numberline {2.4}Opowieści o uczniach Huinenga}{23}
+\contentsline {section}{\numberline {2.5}Nauki przekazane dziesięciu głównym uczniom}{26}
+\contentsline {section}{\numberline {2.6}Śmierć Huinenga i jej następstwa}{27}
