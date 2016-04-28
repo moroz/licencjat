@@ -3,16 +3,16 @@
 \contentsline {section}{\numberline {0.1}Wstęp techniczny}{3}
 \contentsline {section}{\numberline {0.2}Przedstawienie buddyzmu Chan}{3}
 \contentsline {section}{\numberline {0.3}Pochodzenie \textit {Sutry platformy} oraz jej przekłady na język angielski}{5}
-\contentsline {chapter}{\numberline {1}Biografie Huinenga}{8}
-\contentsline {section}{\numberline {1.1}Biografia Huinenga według \textit {Sutry Platformy} w wersji z Dunhuang}{8}
-\contentsline {section}{\numberline {1.2}Analiza biografii Huinenga zawartej w tekście \textit {Sutry Platformy} z Dunhuang}{12}
-\contentsline {subsection}{\numberline {1.2.1}Wiersze Shenxiu i Huinenga}{15}
-\contentsline {subsection}{\numberline {1.2.2}Analogie do biografii Konfucjusza}{16}
-\contentsline {chapter}{\numberline {2}Analiza tekstu \textit {Sutry Platformy}}{18}
-\contentsline {section}{\numberline {2.1}Budowa Sutry}{18}
-\contentsline {section}{\numberline {2.2}Nauki o medytacji}{18}
-\contentsline {section}{\numberline {2.3}Bezforemne nauki}{19}
-\contentsline {section}{\numberline {2.4}Opowieści o uczniach Huinenga}{23}
-\contentsline {section}{\numberline {2.5}Nauki przekazane dziesięciu głównym uczniom}{26}
-\contentsline {section}{\numberline {2.6}Śmierć Huinenga i jej następstwa}{27}
-\contentsline {section}{\numberline {2.7}Zapisy o przekazie \textit {Sutry platformy}}{29}
+\contentsline {chapter}{\numberline {1}Biografie Huinenga}{7}
+\contentsline {section}{\numberline {1.1}Biografia Huinenga według \textit {Sutry Platformy} w wersji z Dunhuang}{7}
+\contentsline {section}{\numberline {1.2}Analiza biografii Huinenga zawartej w tekście \textit {Sutry Platformy} z Dunhuang}{11}
+\contentsline {subsection}{\numberline {1.2.1}Wiersze Shenxiu i Huinenga}{14}
+\contentsline {subsection}{\numberline {1.2.2}Analogie do biografii Konfucjusza}{15}
+\contentsline {chapter}{\numberline {2}Analiza tekstu \textit {Sutry Platformy}}{17}
+\contentsline {section}{\numberline {2.1}Budowa Sutry}{17}
+\contentsline {section}{\numberline {2.2}Nauki o medytacji}{17}
+\contentsline {section}{\numberline {2.3}Bezforemne nauki}{18}
+\contentsline {section}{\numberline {2.4}Opowieści o uczniach Huinenga}{22}
+\contentsline {section}{\numberline {2.5}Nauki przekazane dziesięciu głównym uczniom}{25}
+\contentsline {section}{\numberline {2.6}Śmierć Huinenga i jej następstwa}{26}
+\contentsline {section}{\numberline {2.7}Zapisy o przekazie \textit {Sutry platformy}}{28}
