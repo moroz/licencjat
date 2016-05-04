@@ -1,30 +1,6 @@
 \documentclass[12pt,a4paper,oneside]{book}
 \special{papersize=210mm,297mm}
-\usepackage[polish]{babel}
-\usepackage[no-math]{fontspec}
-\usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
-\usepackage{xeCJK,makeidx,sectsty}
-\usepackage[compact]{titlesec}
-\usepackage{setspace,url}
-\usepackage{indentfirst,hyphenat}
-\usepackage[top=2.5cm,left=3.5cm,right=2.5cm,bottom=2.5cm]{geometry}
-\setmainfont[Mapping=tex-text]{Minion Pro}
-\setsansfont[Scale=0.88]{IPAexGothic}
-\setCJKmainfont{SimSun}
-\setCJKsansfont{SimSun}
-\setCJKmonofont{SimSun}
-\newCJKfontfamily{\ipaexgothic}{IPAexGothic}
-\newCJKfontfamily{\korm}{NanumMyeongjo}
-\newfontfamily\pyfont{Times New Roman}
-\newcommand{\Korean}{\korm\CJKspace}
-\newcommand{\toponim}[1]{\nohyphens{\pyfont #1}}
-\newcommand{\nazwisko}[1]{\nohyphens{\pyfont #1}}
-\newcommand{\pinyin}[1]{\nohyphens{\pyfont\itshape #1}}
-\newcommand{\fnm}{\footnotemark}
-\newcommand{\ibid}{ (\textit{Ibidem}).}
-\author{Karol Moroz}
-\title{Narodziny legendy.\\Sutra Platformy Szóstego Patriarchy Chan}
-
+\input{preamble}
 \begin{document}
 \spacing{1.25}
 \frenchspacing
@@ -36,9 +12,9 @@
 \titleformat{\chapter}[hang]
   {\normalfont\huge}{{\thechapter}}{20pt}{}
 \titlespacing{\chapter}{0pt}{0.5em}{0.5em}
-\sectionfont{}
 \include{introduction}
 \include{chapter_one}
 \include{chapter_two}
+\include{chapter_three}
 \include{bibliography}
 \end{document}
