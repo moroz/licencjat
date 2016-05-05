@@ -21,7 +21,7 @@ def read_paragraphs(*filenames)
 end
 
 def search_pattern(text)
-  Regexp.new('(?<=\\\\textit\{|[^\{])(' + text + ')(?!\\\\index\{|\\})')
+  Regexp.new('(?<=\\\\textit\{|[^\{])(' + text + ')(?!\\\\index\{)')
 end
 
 def sub_pattern(text)
