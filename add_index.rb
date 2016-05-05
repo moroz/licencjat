@@ -5,17 +5,17 @@ def read_patterns(filename)
   File.open(filename).each_line do |line|
     array = line.chomp.split(/\t+|\s{3,}/)
     if array.length == 1
-      hash.merge Hash[array[0],array[0]]
+      hash.merge!(Hash[array[0],array[0]])
     else
-      hash.merge Hash[*array]
+      hash.merge!(Hash[*array])
     end
   end
+  hash
 end
 
 def read_paragraphs(*filenames)
   array = filenames.map do |file|
-    str = remove_comment_blocks(File.read(file))
-    paragraphs = str.split(/\n{2,}/)
+    File.read(file).split(/\n{2,}/)
   end
   array.flatten
 end
@@ -33,12 +33,20 @@ def remove_comment_blocks(str)
 end
 
 input_files = ARGV.empty? ? "sample.txt" : ARGV
-paragraphs = read_paragraphs(input_files)
+paragraphs = read_paragraphs(*input_files)
 patterns = read_patterns("patterns.txt")
 
+# p patterns
 patterns.each do |key,val|
   paragraphs = paragraphs.map do |par|
     par.sub search_pattern(key), sub_pattern(val)
   end
 end
-puts paragraphs.join("\n\n")
+File.write "output_with_index.tex", paragraphs.join("\n\n")
+`xelatex praca_with_index`
+`makeindex praca_with_index.idx`
+`xelatex praca_with_index`
+`xelatex praca_with_index`
+
+File.delete(*Dir['./*.log', '*_with_index.aux', './*.ilg', './*.idx', './*.ind'])
+# puts paragraphs.join("\n\n")

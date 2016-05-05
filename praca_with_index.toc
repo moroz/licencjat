@@ -20,3 +20,4 @@
 \contentsline {section}{\numberline {3.1}Podział Chan na Szkołę Północną i Południową}{32}
 \contentsline {section}{\numberline {3.2}Dalszy podział Szkoły Południowej}{32}
 \contentsline {subsection}{\numberline {3.2.1}Uczniowie Nanyue Huairanga}{32}
+\contentsline {chapter}{Indeks}{34}

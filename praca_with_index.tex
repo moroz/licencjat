@@ -1,10 +1,12 @@
 \documentclass[12pt,a4paper,oneside]{book}
 \special{papersize=210mm,297mm}
 \input{preamble}
+\usepackage{makeidx}
+\makeindex
 \input{formatting}
-\include{introduction}
-\include{chapter_one}
-\include{chapter_two}
-\include{chapter_three}
+\input{output_with_index}
 \include{bibliography}
+\cleardoublepage
+\addcontentsline{toc}{chapter}{\indexname}
+\printindex
 \end{document}
