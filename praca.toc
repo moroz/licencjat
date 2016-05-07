@@ -18,5 +18,6 @@
 \contentsline {section}{\numberline {2.7}Zapisy o przekazie \textit {Sutry platformy}}{30}
 \contentsline {chapter}{\numberline {3}Historyczne reperkusje \textit {Sutry platformy}}{32}
 \contentsline {section}{\numberline {3.1}Podział Chan na Szkołę Północną i Południową}{32}
-\contentsline {section}{\numberline {3.2}Dalszy podział Szkoły Południowej}{32}
-\contentsline {subsection}{\numberline {3.2.1}Uczniowie Nanyue Huairanga}{32}
+\contentsline {section}{\numberline {3.2}Dalszy podział Szkoły Południowej}{33}
+\contentsline {subsection}{\numberline {3.2.1}Nanyue Huairang i jego uczniowie}{33}
+\contentsline {chapter}{Bibliografia}{34}

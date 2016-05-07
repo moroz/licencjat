@@ -1,18 +1,33 @@
-Huineng(\b|a|owi)   Dajian Huineng
-Shenhui         Heze Shenhui, 荷澤神會
+Huineng(\b|a|owi)   Dajian Huineng 大鑒惠能
+Shenhui         Heze Shenhui 荷澤神會
+Shenxiu         Yuquan Shenxiu 玉泉神秀
 Amitābh.    Budda Amitābha
 Mahajan.    Buddyzm Mahajany
-Hongren.   Daman Hongren, 大滿弘忍
-Daoyi           Mazu Daoyi, 馬祖道一
-Gansu           Prowincja Gansu, 甘肅省
-Henan           Prowincja Henan, 河南省
-Jiangxi         Prowincja Jiangxi, 江西省
-Shaanxi         Prowincja Shaanxi, 陝西省
-Jianzhi Sengcan.    Jianzhi Sengcan
-Księ(ga|dze) przekazu lampy z okresu Jingde     Księga przekazu lampy z okresu Jingde, 景德傳燈錄
+Hongren.   Daman Hongren 大滿弘忍
+Daoyi           Mazu Daoyi 馬祖道一
+Gansu           Prowincja Gansu 甘肅省
+Henan           Prowincja Henan 河南省
+Jiangxi         Prowincja Jiangxi 江西省
+Shaanxi         Prowincja Shaanxi 陝西省
+Księ(ga|dze) przekazu lampy z okresu Jingde     Księga przekazu lampy z okresu Jingde 景德傳燈錄
 Chan
 Zen
+Szko.. Czystej Krainy     Szkoła Czystej Krainy, amidyzm
+Faru          Faru 法如
+Bodhidharm.     Bodhidharma
+Huike         Dazu Huike 大祖慧可
+Sengcan.      Jianzhi Sengcan 鑑智僧璨
+Daoxin.       Dayi Daoxin 大醫道信
+Dunhuang
+Luoyang.        Luoyang 洛陽
 medytacj.       medytacja
-Sutr(a|ze|y|ę) (P|p)latformy     Sutra platformy, 壇經
-Sutr(a|ze|y|ę) (D|d)iamentow(a|ej)    Sutra diamentowa, 金剛經
-Sutr(a|ze|y|ę) (S|s)erca            Sutra serca, 心經
+Sutr(a|ze|y|ę) (P|p)latformy     Sutra platformy 壇經
+Sutr(a|ze|y|ę) (D|d)iamentow(a|ej)    Sutra diamentowa 金剛經
+Sutr(a|ze|y|ę) (S|s)erca            Sutra serca 心經
+Szko(ł|l). Północn(ej|.)     Szkoła Północna
+Szko(ł|l). Południow(ej|.)    Szkoła Południowa
+La\\\.nkā\\-vatāra     Sutra La\.nkāvatāra
+``Zapisy o klasztorach w Luoyangu''     Zapisy o klasztorach w Luoyangu 洛陽伽藍記
+Yongning Si     Yongning Si 永寧寺
+Tanlin          Tanlin 曇林
+Kontynuowan(e|ych) biografi(e|ach) wybitnych mnichów    Kontynuowane biografie wybitnych mnichów 續高僧傳
