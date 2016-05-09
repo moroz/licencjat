@@ -6,19 +6,19 @@
 \contentsline {chapter}{\numberline {1}Biografie Huinenga}{8}
 \contentsline {section}{\numberline {1.1}Biografia Huinenga według \textit {Sutry Platformy} w wersji z Dunhuang}{8}
 \contentsline {section}{\numberline {1.2}Analiza biografii Huinenga zawartej w tekście \textit {Sutry Platformy} z Dunhuang}{12}
-\contentsline {subsection}{\numberline {1.2.1}Wiersze Shenxiu i Huinenga}{16}
-\contentsline {subsection}{\numberline {1.2.2}Analogie do biografii Konfucjusza}{16}
-\contentsline {chapter}{\numberline {2}Analiza tekstu \textit {Sutry Platformy}}{19}
-\contentsline {section}{\numberline {2.1}Budowa Sutry}{19}
-\contentsline {section}{\numberline {2.2}Nauki o medytacji}{19}
-\contentsline {section}{\numberline {2.3}Bezforemne nauki}{20}
-\contentsline {section}{\numberline {2.4}Opowieści o uczniach Huinenga}{24}
-\contentsline {section}{\numberline {2.5}Nauki przekazane dziesięciu głównym uczniom}{27}
-\contentsline {section}{\numberline {2.6}Śmierć Huinenga i jej następstwa}{29}
-\contentsline {section}{\numberline {2.7}Zapisy o przekazie \textit {Sutry platformy}}{30}
-\contentsline {chapter}{\numberline {3}Historyczne reperkusje \textit {Sutry platformy}}{32}
-\contentsline {section}{\numberline {3.1}Podział Chan na Szkołę Północną i Południową}{32}
-\contentsline {section}{\numberline {3.2}Dalszy podział Szkoły Południowej}{33}
-\contentsline {subsection}{\numberline {3.2.1}Nanyue Huairang i jego uczniowie}{33}
-\contentsline {chapter}{Bibliografia}{34}
-\contentsline {chapter}{Indeks}{36}
+\contentsline {subsection}{\numberline {1.2.1}Wiersze Shenxiu i Huinenga}{15}
+\contentsline {subsection}{\numberline {1.2.2}Analogie do biografii Konfucjusza}{15}
+\contentsline {chapter}{\numberline {2}Analiza tekstu \textit {Sutry Platformy}}{18}
+\contentsline {section}{\numberline {2.1}Budowa Sutry}{18}
+\contentsline {section}{\numberline {2.2}Nauki o medytacji}{18}
+\contentsline {section}{\numberline {2.3}Bezforemne nauki}{19}
+\contentsline {section}{\numberline {2.4}Opowieści o uczniach Huinenga}{23}
+\contentsline {section}{\numberline {2.5}Nauki przekazane dziesięciu głównym uczniom}{26}
+\contentsline {section}{\numberline {2.6}Śmierć Huinenga i jej następstwa}{28}
+\contentsline {section}{\numberline {2.7}Zapisy o przekazie \textit {Sutry platformy}}{29}
+\contentsline {chapter}{\numberline {3}Historyczne reperkusje \textit {Sutry platformy}}{31}
+\contentsline {section}{\numberline {3.1}Podział Chan na Szkołę Północną i Południową}{31}
+\contentsline {section}{\numberline {3.2}Dalszy podział Szkoły Południowej}{32}
+\contentsline {subsection}{\numberline {3.2.1}Nanyue Huairang i jego uczniowie}{32}
+\contentsline {chapter}{Bibliografia}{33}
+\contentsline {chapter}{Indeks}{35}

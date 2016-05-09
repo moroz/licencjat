@@ -44,6 +44,8 @@ patterns.each do |key,val|
   end
 end
 File.write "output_with_index.tex", paragraphs.join("\n\n")
+revision = `git rev-parse HEAD`
+File.write "revision.tex", revision
 `xelatex praca_with_index`
 `makeindex praca_with_index.idx`
 `xelatex praca_with_index`
