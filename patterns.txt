@@ -21,9 +21,9 @@ Daoxin.       Dayi Daoxin 大醫道信
 Dunhuang
 Luoyang.        Luoyang 洛陽
 medytacj.       medytacja
-Sutr(a|ze|y|ę) (P|p)latformy     Sutra platformy 壇經
-Sutr(a|ze|y|ę) (D|d)iamentow(a|ej)    Sutra diamentowa 金剛經
-Sutr(a|ze|y|ę) (S|s)erca            Sutra serca 心經
+Sutr(a|ze|y|ę) Platformy     Sutra Platformy 壇經
+Sutr(a|ze|y|ę) Diamentow(a|ej)    Sutra Diamentowa 金剛經
+Sutr(a|ze|y|ę) Serca            Sutra Serca 心經
 Szko(ł|l). Północn(ej|.)     Szkoła Północna
 Szko(ł|l). Południow(ej|.)    Szkoła Południowa
 La\\\.nkā\\-vatāra     Sutra La\.nkāvatāra

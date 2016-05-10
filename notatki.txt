@@ -53,7 +53,7 @@ Heinrich Dumoulin 68
 Przekaz Buddy dla Mahakaśjapy: obrócił kwiat w palcach i uśmiechnął się, a tylko Mahakaśjapa, ze wszystkich zebranych tam uczniów, zrozumiał ten niewerbalny przekaz i stał się tym samym dzierżawcą ,,pieczęci umysłu buddy''.
 Współcześnie z powstaniem Zen - przejście od Hinayany do Mahajany (Buddhabhadra), Szkoła 三論 inspirowała się filozofią Mahapradżniaparamity Nagarjuny
 71 二入四行 pojawia się termin 壁觀
-Późny Chan odrzuca źródła pisane, ale zarówno Sutra platformy (Schlütter i Teiser) jak i 二入四行 mają dużo odniesień do pism
+Późny Chan odrzuca źródła pisane, ale zarówno Sutra Platformy (Schlütter i Teiser) jak i 二入四行 mają dużo odniesień do pism
 Wczesny Chan był pod silnym wpływem Taoizmu, był trochę indyjski, a trochę chiński
 77 Daoxin postanowił się osiąść w klasztorze
 
@@ -73,10 +73,10 @@ Wczesny Chan był pod silnym wpływem Taoizmu, był trochę indyjski, a trochę 
 
 其實《六祖壇經》是以般若為方法，以如來藏為目標，用般若的空觀來破除煩惱的執著，以期達到「明心見性」的目的。所謂「明心」就是無煩惱的清淨心，「見性」就是見到與佛無二無別的佛性。佛性是如來藏的另一個名字，清淨心是般若智慧的別名，它是用般若智慧以達見性成佛的目的。此二者雖有不同的名字，也有不同的立場，然而是一體的兩面。若得其一，必得其二，不見其一，不得其二；明心一定能見性，見性一定是心地光明。
 
-Według filozofii Madhjamiki oraz związanego z nią kanonu sutr Pradżniaparamity, takich jak \textit{Sutra diamentowa} czy \textit{Sutra serca}, rozwinięcie mądrości pradżni jest ostatecznym celem praktyki duchowej.
+Według filozofii Madhjamiki oraz związanego z nią kanonu sutr Pradżniaparamity, takich jak \textit{Sutra diamentowa} czy \textit{Sutra Serca}, rozwinięcie mądrości pradżni jest ostatecznym celem praktyki duchowej.
 Osiągnięcie go równa się zrozumieniu pustej natury wszystkich zjawisk, czyniąc zbędnymi nauki o naturze buddy.
 Natomiast w systemie \textit{Tathagathagarbha}, z którym związana jest sutra \textit{La\.nkā\-vatāra}, pradżnia jest wyłącznie zdolnością umysłu, zaś głównym obiektem zainteresowania jest natura buddy, obecna w umyśle wszystkich istot.
-W \textit{Sutrze platformy} obecne są idee Mahapradżniaparamity, ale fundamentem jej filozofii jest ewidentntie system Tathagathagarbha.
+W \textit{Sutrze Platformy} obecne są idee Mahapradżniaparamity, ale fundamentem jej filozofii jest ewidentntie system Tathagathagarbha.
 Chociaż w sutrze mówi się o odrzuceniu sutry \textit{La\.nkā\-vatāra} na rzecz \textit{Sutry diamentowej}, w rzeczywistości w tekście wygłoszono wiele nauk, bliższych pierwszemu z tekstów.
 (Shi 1990: 150-151).
 
@@ -92,6 +92,6 @@ W sutrze pla
 我們知道，中國的禪宗傳自印度的菩提達摩，他於紀元五二七年到達中國，成為中國禪宗的第一代祖師。他的思想源頭是根據四卷本的《楞伽經》；北宗神秀的弟子淨覺所集的《楞伽師資記》，就是介紹從印度禪傳承到中國禪的系統，也可以講這是北宗禪，是以《楞伽經》的思想為主流。
 Północ jest związana z Lankavatarą
 Lankavatara to 如來藏, czyli Tathagathagarbha
-Sutra platformy miesza 如來藏 z 中觀
+Sutra Platformy miesza 如來藏 z 中觀
 
 壇經引用《維摩經》者計六例，共有五種觀念：頓悟、守心與直心、行住坐臥的日常生活即是修行、動靜一體、不二。此外尚可在壇經中見到《大涅槃經》、《菩薩戒經》、《法華經》、《華嚴經》、《觀無量壽經》、《大乘本生心地觀經》等的思想。

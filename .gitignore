@@ -6,3 +6,5 @@
 *.ind
 *.ilg
 *.out
+revision.tex
+output_with_index.tex
