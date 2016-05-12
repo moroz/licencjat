@@ -20,5 +20,5 @@
 \contentsline {section}{\numberline {4.1}Podział Chan na Szkołę Północną i Południową}{31}
 \contentsline {section}{\numberline {4.2}Dalszy podział Szkoły Południowej}{32}
 \contentsline {subsection}{\numberline {4.2.1}Nanyue Huairang i jego uczniowie}{32}
-\contentsline {chapter}{Bibliografia}{33}
-\contentsline {chapter}{Indeks}{35}
+\contentsline {chapter}{Bibliografia}{34}
+\contentsline {chapter}{Indeks}{36}
