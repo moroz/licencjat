@@ -1,4 +1,4 @@
-Huineng(\b|a|owi)   Dajian Huineng 大鑒惠能
+Huineng(\\b|a|owi)   Dajian Huineng 大鑒惠能
 Shenhui         Heze Shenhui 荷澤神會
 Shenxiu         Yuquan Shenxiu 玉泉神秀
 Amitābh.    Budda Amitābha
@@ -10,10 +10,10 @@ Henan           Prowincja Henan 河南省
 Jiangxi         Prowincja Jiangxi 江西省
 Shaanxi         Prowincja Shaanxi 陝西省
 Księ(ga|dze) przekazu lampy z okresu Jingde     Księga przekazu lampy z okresu Jingde 景德傳燈錄
-Chan
-Zen
+Chan\b      Chan
+Zen\b       Zen
 Szko.. Czystej Krainy     Szkoła Czystej Krainy, amidyzm
-Faru          Faru 法如
+Faru\b          Faru 法如
 Bodhidharm.     Bodhidharma
 Huike         Dazu Huike 大祖慧可
 Sengcan.      Jianzhi Sengcan 鑑智僧璨
@@ -29,5 +29,5 @@ Szko(ł|l). Południow(ej|.)    Szkoła Południowa
 La\\\.nkā\\-vatāra     Sutra La\.nkāvatāra
 ``Zapisy o klasztorach w Luoyangu''     Zapisy o klasztorach w Luoyangu 洛陽伽藍記
 Yongning Si     Yongning Si 永寧寺
-Tanlin          Tanlin 曇林
+Tanlin\b          Tanlin 曇林
 Kontynuowan(e|ych) biografi(e|ach) wybitnych mnichów    Kontynuowane biografie wybitnych mnichów 續高僧傳
