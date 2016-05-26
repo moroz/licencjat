@@ -1,37 +1,50 @@
 Huineng(\\b|a|owi)   Dajian Huineng 大鑒惠能
-Shenhui         Heze Shenhui 荷澤神會
-Shenxiu         Yuquan Shenxiu 玉泉神秀
-Amitābh.    Budda Amitābha
-Mahajan.    Buddyzm Mahajany
-Hongren.   Daman Hongren 大滿弘忍
-Daoyi           Mazu Daoyi 馬祖道一
+Shenhui              Heze Shenhui 荷澤神會
+Shenxiu              Yuquan Shenxiu 玉泉神秀
+Faru\b               Faru 法如
+Bodhidharm.          Bodhidharma
+Huike                Dazu Huike 大祖慧可
+Sengcan.             Jianzhi Sengcan 鑑智僧璨
+Daoxin.              Dayi Daoxin 大醫道信
+Hongren.             Daman Hongren 大滿弘忍
+Daoyi                Mazu Daoyi 馬祖道一
+Puji\b               Songshan Puji 嵩山普寂
+Yifu\b               Dazhi Yifu 大智義福
+Xingsi               Qingyuan Xingsi 青原行思
+Xiqian               Shitou Xiqian 石頭希遷
+Huairang.            Nanyue Huairang 南嶽懷讓
+Yixuan               Linji Yixuan 臨濟義玄
+Huaihai              Baizhang Huaihai 百丈懷海
+Puyuan               Nanquan Puyuan 南泉普願
+
+Amitābh.             Budda Amitābha
+Mahajan.             Buddyzm Mahajany
 Gansu           Prowincja Gansu 甘肅省
 Henan           Prowincja Henan 河南省
 Jiangxi         Prowincja Jiangxi 江西省
 Shaanxi         Prowincja Shaanxi 陝西省
+Shanxi          Prowincja Shanxi 山西省
 Księ(ga|dze) przekazu lampy z okresu Jingde     Księga przekazu lampy z okresu Jingde 景德傳燈錄
 Chan\b      Chan
 Zen\b       Zen
 Szko.. Czystej Krainy     Szkoła Czystej Krainy, amidyzm
-Faru\b          Faru 法如
-Bodhidharm.     Bodhidharma
-Huike         Dazu Huike 大祖慧可
-Sengcan.      Jianzhi Sengcan 鑑智僧璨
-Daoxin.       Dayi Daoxin 大醫道信
-Dunhuang
+szko.. Linji      szkoła Linji 臨濟宗
+szko.. Hongzhou      szkoła Hongzhou 洪州宗
+Szko.. Północn(ej|.)     Szkoła Północna
+Szko.. Południow(ej|.)    Szkoła Południowa
+Dunhuang        Dunhuang 敦煌
 Luoyang.        Luoyang 洛陽
+Chang'an        Chang'an 長安
 medytacj.       medytacja
 Sutr(a|ze|y|ę) Platformy     Sutra Platformy 壇經
 Sutr(a|ze|y|ę) Diamentow(a|ej)    Sutra Diamentowa 金剛經
 Sutr(a|ze|y|ę) Serca            Sutra Serca 心經
-Szko(ł|l). Północn(ej|.)     Szkoła Północna
-Szko(ł|l). Południow(ej|.)    Szkoła Południowa
+Sutra Siyi           Sutra Siyi 思益經
 La\\\.nkā\\-vatāra     Sutra La\.nkāvatāra
 ``Zapisy o klasztorach w Luoyangu''     Zapisy o klasztorach w Luoyangu 洛陽伽藍記
 Yongning Si     Yongning Si 永寧寺
 Tanlin\b          Tanlin 曇林
 Kontynuowan(e|ych) biografi(e|ach) wybitnych mnichów    Kontynuowane biografie wybitnych mnichów 續高僧傳
-Puji      Songshan Puji 嵩山普寂
 Hu Shi        Hu Shi 胡適
 Wang Wei          Wang Wei 王維
 Shaozhou          Shaozhou 韶州
@@ -39,3 +52,4 @@ Annały przekazu skarbu Dharmy     Annały przekazu skarbu Dharmy 傳法寶記
 gór(ze|ę|a) Song      góra Song 嵩山
 gór(ze|ę|a) Heng      góra Heng 衡山
 gór(ze|ę|a) Fengmu      góra Fengmu 憑墓山
+gór(ze|ę|a) Gonggong    góra Gonggong 龔公山
