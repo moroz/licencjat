@@ -18,11 +18,11 @@
 \contentsline {section}{\numberline {3.7}Zapisy o przekazie \textit {Sutry Platformy}}{30}
 \contentsline {chapter}{\numberline {4}Historyczne reperkusje \textit {Sutry Platformy}}{31}
 \contentsline {section}{\numberline {4.1}Podział Chan na Szkołę Północną i Południową}{31}
-\contentsline {section}{\numberline {4.2}Dalszy podział Szkoły Południowej}{33}
-\contentsline {section}{\numberline {4.3}Nanyue Huairang}{33}
+\contentsline {section}{\numberline {4.2}Dalszy podział Szkoły Południowej}{34}
+\contentsline {section}{\numberline {4.3}Nanyue Huairang}{34}
 \contentsline {subsection}{\numberline {4.3.1}Mazu Daoyi i szkoła Hongzhou}{34}
-\contentsline {subsection}{\numberline {4.3.2}Powstanie szkół Linji i Guiyang}{34}
+\contentsline {subsection}{\numberline {4.3.2}Powstanie szkół Linji i Guiyang}{35}
 \contentsline {section}{\numberline {4.4}Qingyuan Xingsi}{35}
 \contentsline {subsection}{\numberline {4.4.1}Shitou Xiqian i szkoła Shitou}{35}
-\contentsline {chapter}{Bibliografia}{36}
-\contentsline {chapter}{Indeks}{38}
+\contentsline {chapter}{Bibliografia}{37}
+\contentsline {chapter}{Indeks}{39}

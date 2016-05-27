@@ -5,7 +5,7 @@ def read_patterns(filename)
   File.open(filename).each_line do |line|
     array = line.chomp.split(/\t+|\s{3,}/)
     if array.length == 1
-      hash.merge!(Hash[array[0],array[0]])
+      hash.merge!(Hash[array[0]*2])
     else
       hash.merge!(Hash[*array])
     end
