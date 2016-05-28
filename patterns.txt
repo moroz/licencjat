@@ -24,6 +24,9 @@ Fanghui              Yangqi Fanghui 楊岐方會
 Huinan               Huanglong Huinan 黃龍慧南
 Myōan Esai           Myōan Esai 明菴栄西
 Huangbo Xiyun        Huangbo Xiyun 黃檗希運
+Xishan Dadian        Xishan Dadian 西山大顛
+Tianhuang Daowu      Tianhuang Daowu 天皇道悟
+Yaoshan Weiyan       Yaoshan Weiyan 藥山惟儼
 
 Amitābh.             Budda Amitābha
 Mahajan.             Buddyzm Mahajany
@@ -39,6 +42,7 @@ Księ(ga|dze) przekazu lampy z okresu Jingde     Księga przekazu lampy z okresu
 Kontynuowan(e|ych) biografi(e|ach) wybitnych mnichów    Kontynuowane biografie wybitnych mnichów 續高僧傳
 Nanzong ding shifei lun           Putidamo Nanzong ding shifei lun 菩提達摩南宗定是非論
 Annały przekazu skarbu Dharmy     Annały przekazu skarbu Dharmy 傳法寶記
+Biografi(e|ach|i) wybitnych mnichów Song      Biografie wybitnych mnichów Song 宋高僧傳
 
 Chan\b      Chan
 Zen\b       Zen
@@ -76,6 +80,7 @@ Hu Shi            Hu Shi 胡適
 Wang Wei          Wang Wei 王維
 Lu Yi             Lu Yi 盧弈
 Wu Pingyi         Wu Pingyi 武平一
+Liu Ke            Liu Ke 劉軻
 
 Tang Gaozong(\b|.)    Tang Gaozong 唐高宗
 Tang Suzong(\b|.)     Tang Suzong 唐肅宗
