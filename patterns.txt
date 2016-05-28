@@ -19,6 +19,11 @@ Puyuan               Nanquan Puyuan 南泉普願
 Chongyuan            Chongyuan 崇遠
 Yinzong              Yinzong 印宗
 Zongmi               Guifeng Zongmi 圭峰宗密
+Chuyuan              Shishuang Chuyuan 石霜楚圓
+Fanghui              Yangqi Fanghui 楊岐方會
+Huinan               Huanglong Huinan 黃龍慧南
+Myōan Esai           Myōan Esai 明菴栄西
+Huangbo Xiyun        Huangbo Xiyun 黃檗希運
 
 Amitābh.             Budda Amitābha
 Mahajan.             Buddyzm Mahajany
@@ -43,6 +48,7 @@ szko.. Hongzhou           szkoła Hongzhou 洪州宗
 Szko.. Północn(ej|.)      Szkoła Północna
 Szko.. Południow(ej|.)    Szkoła Południowa
 szko.. Heze               szkoła Heze 荷澤宗
+szko.. Rinzai             szkoła Rinzai|see {szkoła Linji}
 
 Dunhuang        Dunhuang 敦煌
 Luoyang.        Luoyang 洛陽
