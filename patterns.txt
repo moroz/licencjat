@@ -31,11 +31,11 @@ Yaoshan Weiyan       Yaoshan Weiyan 藥山惟儼
 Amitābh.             Budda Amitābha
 Mahajan.             Buddyzm Mahajany
 
-Gansu           Prowincja Gansu 甘肅省
-Henan           Prowincja Henan 河南省
-Jiangxi         Prowincja Jiangxi 江西省
-Shaanxi         Prowincja Shaanxi 陝西省
-Shanxi          Prowincja Shanxi 山西省
+Gansu           prowincja Gansu 甘肅省
+Henan           prowincja Henan 河南省
+Jiangxi         prowincja Jiangxi 江西省
+Shaanxi         prowincja Shaanxi 陝西省
+Shanxi          prowincja Shanxi 山西省
 
 Księ(ga|dze) przekazu lampy z okresu Jingde     Księga przekazu lampy z okresu Jingde 景德傳燈錄
 ``Zapisy o klasztorach w Luoyangu''     Zapisy o klasztorach w Luoyangu 洛陽伽藍記
@@ -58,6 +58,9 @@ Dunhuang        Dunhuang 敦煌
 Luoyang.        Luoyang 洛陽
 Shaozhou        Shaozhou 韶州
 Chang'an        Chang'an 長安
+Dangyang        Dangyang 當陽
+Hakata          Hakata 博多
+Fukuoka         Fukuoka 福岡
 medytacj.       medytacja
 
 Sutr(a|ze|y|ę) Platformy          Sutra Platformy 壇經
@@ -74,6 +77,7 @@ Shaolin Si      Shaolin Si 少林寺
 Baohua Si       Baohua Si 寶華寺
 Kaiyuan Si      Kaiyuan Si 開元寺
 Jingju Si       Jingju Si 淨居寺
+Shōfuku-ji      Shōfuku-ji 聖福寺
 
 Tanlin\b          Tanlin 曇林
 Hu Shi            Hu Shi 胡適
@@ -85,6 +89,7 @@ Liu Ke            Liu Ke 劉軻
 Tang Gaozong(\b|.)    Tang Gaozong 唐高宗
 Tang Suzong(\b|.)     Tang Suzong 唐肅宗
 Tang Dezong(\b|.)     Tang Dezong 唐德宗
+Tang Wuzong(\b|.)     Tang Wuzong 唐武宗
 
 gór(ze|ę|a) Song      góra Song 嵩山
 gór(ze|ę|a) Heng      góra Heng 衡山
