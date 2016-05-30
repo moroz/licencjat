@@ -37,7 +37,6 @@ input_files = ARGV.empty? ? default_files : ARGV
 paragraphs = read_paragraphs(*input_files)
 patterns = read_patterns("patterns.txt")
 
-# p patterns
 patterns.each do |key,val|
   paragraphs = paragraphs.map do |par|
     par.sub search_pattern(key), sub_pattern(val)
@@ -52,4 +51,3 @@ system "xelatex praca"
 system "xelatex praca"
 
 File.delete(*Dir['./*.log', './*.ilg', './*.idx', './*.ind'])
-# puts paragraphs.join("\n\n")
