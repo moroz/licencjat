@@ -27,6 +27,8 @@ Huangbo Xiyun        Huangbo Xiyun 黃檗希運
 Xishan Dadian        Xishan Dadian 西山大顛
 Tianhuang Daowu      Tianhuang Daowu 天皇道悟
 Yaoshan Weiyan       Yaoshan Weiyan 藥山惟儼
+Caoshan Benji        Caoshan Benji 曹山本寂
+Hongzhi Zhengjue     Hongzhi Zhengjue 宏智正覺
 
 Amitābh.             Budda Amitābha
 Mahajan.             Buddyzm Mahajany
@@ -61,7 +63,9 @@ Chang'an        Chang'an 長安
 Dangyang        Dangyang 當陽
 Hakata          Hakata 博多
 Fukuoka         Fukuoka 福岡
+
 medytacj.       medytacja
+mozhao Chan     mozhao Chan 默照禪
 
 Sutr(a|ze|y|ę) Platformy          Sutra Platformy 壇經
 Sutr(a|ze|y|ę) Diamentow(a|ej)    Sutra Diamentowa 金剛經
