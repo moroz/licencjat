@@ -47,10 +47,9 @@ File.write "output_with_index.tex", paragraphs.join("\n\n")
 revision = `git rev-parse HEAD`
 File.write "revision.tex", revision
 system "xelatex praca"
-system "xelatex praca_with_index"
-system "makeindex praca_with_index.idx"
-system "xelatex praca_with_index"
-system "xelatex praca_with_index"
+system "makeindex praca.idx"
+system "xelatex praca"
+system "xelatex praca"
 
-File.delete(*Dir['./*.log', '*_with_index.aux', './*.ilg', './*.idx', './*.ind'])
+File.delete(*Dir['./*.log', './*.ilg', './*.idx', './*.ind'])
 # puts paragraphs.join("\n\n")
