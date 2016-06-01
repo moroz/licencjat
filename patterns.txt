@@ -63,9 +63,14 @@ Chang'an        Chang'an 長安
 Dangyang        Dangyang 當陽
 Hakata          Hakata 博多
 Fukuoka         Fukuoka 福岡
+Qizhou          Qizhou 蘄州
+Huangmei        powiat Huangmei 黃梅縣
+
 
 medytacj.       medytacja
 mozhao Chan     mozhao Chan 默照禪
+pol. błogosławieństw    pole błogosławieństw 福田
+布施            dāna 布施
 
 Sutr(a|ze|y|ę) Platformy          Sutra Platformy 壇經
 Sutr(a|ze|y|ę) Diamentow(a|ej)    Sutra Diamentowa 金剛經
@@ -74,6 +79,7 @@ Sutra Siyi                        Sutra Siyi 思益經
 La\\\.nkā\\-vatāra                Sutra La\.nkāvatāra 楞伽經
 
 Yongning Si     Yongning Si 永寧寺
+Dongshan Si     Dongshan Si 東山寺
 Dayun Si        Dayun Si 大雲寺
 Songyue Si      Songyue Si 嵩嶽寺
 Yuquan Si       Yuquan Si 玉泉寺
