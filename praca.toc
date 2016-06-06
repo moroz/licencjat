@@ -1,25 +1,26 @@
 \select@language {polish}
-\contentsline {chapter}{Wprowadzenie}{4}
-\contentsline {section}{\numberline {1.1}Wstęp techniczny}{4}
-\contentsline {section}{\numberline {1.2}Przedstawienie buddyzmu Chan}{4}
-\contentsline {section}{\numberline {1.3}Pochodzenie \textit {Sutry Platformy} oraz jej przekłady na język angielski}{7}
-\contentsline {chapter}{\numberline {2}Biografie Huinenga}{9}
-\contentsline {section}{\numberline {2.1}Biografia Huinenga według \textit {Sutry Platformy} w wersji z Dunhuang}{9}
-\contentsline {section}{\numberline {2.2}Analiza biografii Huinenga zawartej w tekście \textit {Sutry Platformy} z Dunhuang}{13}
-\contentsline {subsection}{\numberline {2.2.1}Wiersze Shenxiu i Huinenga}{16}
-\contentsline {subsection}{\numberline {2.2.2}Analogie do biografii Konfucjusza}{17}
-\contentsline {chapter}{\numberline {3}Analiza tekstu \textit {Sutry Platformy}}{19}
-\contentsline {section}{\numberline {3.1}Budowa Sutry}{19}
-\contentsline {section}{\numberline {3.2}Nauki o medytacji}{19}
-\contentsline {section}{\numberline {3.3}Bezforemne nauki}{20}
-\contentsline {section}{\numberline {3.4}Opowieści o uczniach Huinenga}{25}
-\contentsline {section}{\numberline {3.5}Nauki przekazane dziesięciu głównym uczniom}{27}
-\contentsline {section}{\numberline {3.6}Śmierć Huinenga i jej następstwa}{29}
-\contentsline {section}{\numberline {3.7}Zapisy o przekazie \textit {Sutry Platformy}}{31}
-\contentsline {chapter}{\numberline {4}Historyczne reperkusje \textit {Sutry Platformy}}{32}
-\contentsline {section}{\numberline {4.1}Podział Chan na Szkołę Północną i Południową}{32}
-\contentsline {section}{\numberline {4.2}Dalszy podział Szkoły Południowej}{35}
-\contentsline {section}{\numberline {4.3}Nanyue Huairang i szkoła Hongzhou}{35}
-\contentsline {section}{\numberline {4.4}Qingyuan Xingsi i szkoła Shitou}{36}
-\contentsline {chapter}{Bibliografia}{39}
-\contentsline {chapter}{Indeks}{41}
+\contentsline {chapter}{Wprowadzenie}{5}
+\contentsline {section}{\numberline {1.1}Wstęp techniczny}{5}
+\contentsline {section}{\numberline {1.2}Przedstawienie buddyzmu Chan}{5}
+\contentsline {section}{\numberline {1.3}Pochodzenie \textit {Sutry Platformy} oraz jej przekłady na język angielski}{8}
+\contentsline {chapter}{\numberline {2}Biografie Huinenga}{11}
+\contentsline {section}{\numberline {2.1}Biografia Huinenga według \textit {Sutry Platformy} w wersji z Dunhuang}{11}
+\contentsline {section}{\numberline {2.2}Analiza biografii Huinenga zawartej w tekście \textit {Sutry Platformy} z Dunhuang}{15}
+\contentsline {subsection}{\numberline {2.2.1}Wiersze Shenxiu i Huinenga}{18}
+\contentsline {subsection}{\numberline {2.2.2}Analogie do biografii Konfucjusza}{19}
+\contentsline {chapter}{\numberline {3}Analiza tekstu \textit {Sutry Platformy}}{21}
+\contentsline {section}{\numberline {3.1}Budowa Sutry}{21}
+\contentsline {section}{\numberline {3.2}Nauki o medytacji}{21}
+\contentsline {section}{\numberline {3.3}Bezforemne nauki}{22}
+\contentsline {section}{\numberline {3.4}Opowieści o uczniach Huinenga}{27}
+\contentsline {section}{\numberline {3.5}Nauki przekazane dziesięciu głównym uczniom}{29}
+\contentsline {section}{\numberline {3.6}Śmierć Huinenga i jej następstwa}{31}
+\contentsline {section}{\numberline {3.7}Zapisy o przekazie \textit {Sutry Platformy}}{33}
+\contentsline {chapter}{\numberline {4}Historyczne reperkusje \textit {Sutry Platformy}}{35}
+\contentsline {section}{\numberline {4.1}Podział Chan na Szkołę Północną i Południową}{35}
+\contentsline {section}{\numberline {4.2}Dalszy podział Szkoły Południowej}{38}
+\contentsline {section}{\numberline {4.3}Nanyue Huairang i szkoła Hongzhou}{38}
+\contentsline {section}{\numberline {4.4}Qingyuan Xingsi i szkoła Shitou}{39}
+\contentsline {chapter}{Streszczenia}{42}
+\contentsline {chapter}{Bibliografia}{45}
+\contentsline {chapter}{Indeks}{47}
