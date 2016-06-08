@@ -29,9 +29,13 @@ Tianhuang Daowu      Tianhuang Daowu 天皇道悟
 Yaoshan Weiyan       Yaoshan Weiyan 藥山惟儼
 Caoshan Benji        Caoshan Benji 曹山本寂
 Hongzhi Zhengjue     Hongzhi Zhengjue 宏智正覺
+Song Ding            Song Ding 宋鼎
 
-Amitābh.             Budda Amitābha
-Mahajan.             Buddyzm Mahajany
+Amitābh.             Budda Amitābha 阿彌陀佛
+Mahajan.             Buddyzm Mahajany 大乘佛教
+Siakjamuni(\b|ego)           Budda Siakjamuni
+Gautama              Siddhārta Gautama|see {Budda Siakjamuni}
+Śrawasti
 
 Gansu           prowincja Gansu 甘肅省
 Henan           prowincja Henan 河南省
@@ -45,6 +49,7 @@ Kontynuowan(e|ych) biografi(e|ach) wybitnych mnichów    Kontynuowane biografie 
 Nanzong ding shifei lun           Putidamo Nanzong ding shifei lun 菩提達摩南宗定是非論
 Annały przekazu skarbu Dharmy     Annały przekazu skarbu Dharmy 傳法寶記
 Biografi(e|ach|i) wybitnych mnichów Song      Biografie wybitnych mnichów Song 宋高僧傳
+Lidai fabao ji      Lidai fabao ji 歷代法寶記
 
 Chan\b      Chan
 Zen\b       Zen
@@ -61,16 +66,33 @@ Luoyang.        Luoyang 洛陽
 Shaozhou        Shaozhou 韶州
 Chang'an        Chang'an 長安
 Dangyang        Dangyang 當陽
+Jiangling       Jiangling 江陵
 Hakata          Hakata 博多
 Fukuoka         Fukuoka 福岡
 Qizhou          Qizhou 蘄州
 Huangmei        powiat Huangmei 黃梅縣
 
-
 medytacj.       medytacja
+zasług.         zasługa
 mozhao Chan     mozhao Chan 默照禪
 pol. błogosławieństw    pole błogosławieństw 福田
 布施            dāna 布施
+prajñāsamādhi     prajñāsamādhi 般若三昧
+Dharma Najwyższego Pojazdu      Dharma Najwyższego Pojazdu 最上乘法
+Trz(y|ech) Klejnot(y|ów|ach)    Trzy Klejnoty 三寶
+Madhjamak.      Madhjamaka
+Pradżniaparamit.    Pradżniaparamita
+Tathagathagarbha
+trz(y|ech) ciał.? buddy   trzy ciała buddy 三身
+stan prawdy     stan prawdy 法身
+stan wypromieniowania     stan wypromieniowania 應身
+stan radości    stan radości 報身
+cztery ślubowania   cztery ślubowania 四弘大願
+Schronieni(.|em)     Schronienie 歸依
+
+滅罪頌           wiersz usuwający negatywną karmę 滅罪頌
+bezforemn(y|ego) wiersz(\b|a)     bezforemny wiersz 無相頌
+biegłość w nauczaniu i w medytacji    biegłość w nauczaniu i w medytacji 說通及心通
 
 Sutr(a|ze|y|ę) Platformy          Sutra Platformy 壇經
 Sutr(a|ze|y|ę) Diamentow(a|ej)    Sutra Diamentowa 金剛經
@@ -95,11 +117,13 @@ Wang Wei          Wang Wei 王維
 Lu Yi             Lu Yi 盧弈
 Wu Pingyi         Wu Pingyi 武平一
 Liu Ke            Liu Ke 劉軻
+Wei Qu            Wei Qu 韋璩
 
 Tang Gaozong(\b|.)    Tang Gaozong 唐高宗
 Tang Suzong(\b|.)     Tang Suzong 唐肅宗
 Tang Dezong(\b|.)     Tang Dezong 唐德宗
 Tang Wuzong(\b|.)     Tang Wuzong 唐武宗
+Liang Wudi            Liang Wudi 梁武帝
 
 gór(ze|ę|a) Song      góra Song 嵩山
 gór(ze|ę|a) Heng      góra Heng 衡山
