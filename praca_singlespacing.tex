@@ -1,0 +1,23 @@
+\documentclass[12pt,a4paper]{book}
+\special{papersize=210mm,297mm}
+\input{preamble}
+\usepackage{makeidx}
+\makeindex
+\begin{document}
+\input{titlepage}
+\pagestyle{headings}
+\cleardoublepage
+\setcounter{page}{3}
+\include{declaration}
+\tableofcontents
+\pagestyle{headings}
+\titleformat{\chapter}[hang]
+  {\normalfont\huge}{{\thechapter}}{20pt}{}
+\titlespacing{\chapter}{0pt}{0.5em}{0.5em}
+\input{output_with_index}
+\input{abstract}
+\include{bibliography}
+\cleardoublepage
+\addcontentsline{toc}{chapter}{\indexname}
+\printindex
+\end{document}

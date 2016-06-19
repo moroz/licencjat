@@ -49,5 +49,9 @@ system "xelatex praca"
 system "makeindex praca.idx"
 system "xelatex praca"
 system "xelatex praca"
+system "xelatex praca_singlespacing"
+system "makeindex praca_singlespacing.idx"
+system "xelatex praca_singlespacing"
+system "xelatex praca_singlespacing"
 
 File.delete(*Dir['./*.log', './*.ilg', './*.idx', './*.ind'])
