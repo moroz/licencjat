@@ -35,7 +35,7 @@ Amitābh.             Budda Amitābha 阿彌陀佛
 Mahajan.             Buddyzm Mahajany 大乘佛教
 Siakjamuni(\b|ego)           Budda Siakjamuni
 Gautama              Siddhārta Gautama|see {Budda Siakjamuni}
-Śrawasti
+Śrawasti        Srawasti@Śrawasti
 
 Gansu           prowincja Gansu 甘肅省
 Henan           prowincja Henan 河南省
