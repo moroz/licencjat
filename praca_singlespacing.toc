@@ -15,7 +15,7 @@
 \contentsline {section}{\numberline {3.4}Opowieści o uczniach Huinenga}{28}
 \contentsline {section}{\numberline {3.5}Nauki przekazane dziesięciu głównym uczniom}{30}
 \contentsline {section}{\numberline {3.6}Śmierć Huinenga i jej następstwa}{31}
-\contentsline {section}{\numberline {3.7}Zapisy o przekazie \textit {Sutry Platformy}}{33}
+\contentsline {section}{\numberline {3.7}Zapisy o przekazie \textit {Sutry Platformy}}{32}
 \contentsline {chapter}{\numberline {4}Historyczne reperkusje \textit {Sutry Platformy}}{35}
 \contentsline {section}{\numberline {4.1}Podział chan na Szkołę Północną i Południową}{35}
 \contentsline {section}{\numberline {4.2}Dalszy podział Szkoły Południowej}{37}
