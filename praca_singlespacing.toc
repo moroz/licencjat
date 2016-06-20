@@ -1,8 +1,7 @@
 \select@language {polish}
 \contentsline {chapter}{Wstęp}{7}
 \contentsline {chapter}{\numberline {1}Przedstawienie buddyzmu chan}{9}
-\contentsline {section}{\numberline {1.1}Przedstawienie buddyzmu chan}{9}
-\contentsline {section}{\numberline {1.2}Pochodzenie \textit {Sutry Platformy} oraz jej przekłady na język angielski}{11}
+\contentsline {section}{\numberline {1.1}Pochodzenie \textit {Sutry Platformy} oraz jej przekłady na język angielski}{11}
 \contentsline {chapter}{\numberline {2}Biografie Huinenga}{13}
 \contentsline {section}{\numberline {2.1}Biografia Huinenga według \textit {Sutry Platformy} w wersji z Dunhuang}{13}
 \contentsline {section}{\numberline {2.2}Analiza biografii Huinenga zawartej w tekście \textit {Sutry Platformy} z Dunhuang}{16}
@@ -21,7 +20,7 @@
 \contentsline {section}{\numberline {4.2}Dalszy podział Szkoły Południowej}{37}
 \contentsline {section}{\numberline {4.3}Nanyue Huairang i szkoła Hongzhou}{37}
 \contentsline {section}{\numberline {4.4}Qingyuan Xingsi i szkoła Shitou}{39}
-\contentsline {section}{\numberline {4.5}Podsumowanie}{40}
+\contentsline {section}{\numberline {4.5}Zakończenie}{40}
 \contentsline {chapter}{Streszczenia}{41}
 \contentsline {chapter}{Bibliografia}{44}
 \contentsline {chapter}{Indeks}{47}
