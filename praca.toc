@@ -1,8 +1,8 @@
 \select@language {polish}
-\contentsline {chapter}{Wprowadzenie}{7}
-\contentsline {section}{\numberline {1.1}Wstęp techniczny}{7}
-\contentsline {section}{\numberline {1.2}Przedstawienie buddyzmu Chan}{7}
-\contentsline {section}{\numberline {1.3}Pochodzenie \textit {Sutry Platformy} oraz jej przekłady na język angielski}{10}
+\contentsline {chapter}{Wstęp}{7}
+\contentsline {chapter}{\numberline {1}Przedstawienie buddyzmu chan}{9}
+\contentsline {section}{\numberline {1.1}Przedstawienie buddyzmu chan}{9}
+\contentsline {section}{\numberline {1.2}Pochodzenie \textit {Sutry Platformy} oraz jej przekłady na język angielski}{11}
 \contentsline {chapter}{\numberline {2}Biografie Huinenga}{13}
 \contentsline {section}{\numberline {2.1}Biografia Huinenga według \textit {Sutry Platformy} w wersji z Dunhuang}{13}
 \contentsline {section}{\numberline {2.2}Analiza biografii Huinenga zawartej w tekście \textit {Sutry Platformy} z Dunhuang}{17}
@@ -17,7 +17,7 @@
 \contentsline {section}{\numberline {3.6}Śmierć Huinenga i jej następstwa}{33}
 \contentsline {section}{\numberline {3.7}Zapisy o przekazie \textit {Sutry Platformy}}{35}
 \contentsline {chapter}{\numberline {4}Historyczne reperkusje \textit {Sutry Platformy}}{37}
-\contentsline {section}{\numberline {4.1}Podział Chan na Szkołę Północną i Południową}{37}
+\contentsline {section}{\numberline {4.1}Podział chan na Szkołę Północną i Południową}{37}
 \contentsline {section}{\numberline {4.2}Dalszy podział Szkoły Południowej}{40}
 \contentsline {section}{\numberline {4.3}Nanyue Huairang i szkoła Hongzhou}{40}
 \contentsline {section}{\numberline {4.4}Qingyuan Xingsi i szkoła Shitou}{41}

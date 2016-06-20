@@ -51,8 +51,8 @@ Annały przekazu skarbu Dharmy     Annały przekazu skarbu Dharmy 傳法寶記
 Biografi(e|ach|i) wybitnych mnichów Song      Biografie wybitnych mnichów Song 宋高僧傳
 Lidai fabao ji      Lidai fabao ji 歷代法寶記
 
-Chan\b      Chan
-Zen\b       Zen
+chan\b      zhan
+zen\b       zen
 Szko.. Czystej Krainy     Szkoła Czystej Krainy, amidyzm
 szko.. Linji              szkoła Linji 臨濟宗
 szko.. Hongzhou           szkoła Hongzhou 洪州宗
@@ -74,7 +74,7 @@ Huangmei        powiat Huangmei 黃梅縣
 
 medytacj.       medytacja
 zasług.         zasługa
-mozhao Chan     mozhao Chan 默照禪
+mozhao chan     mozhao chan 默照禪
 pol. błogosławieństw    pole błogosławieństw 福田
 布施            dāna 布施
 prajñāsamādhi     prajñāsamādhi 般若三昧

@@ -32,7 +32,7 @@ def remove_comment_blocks(str)
   str.gsub(/\\if 0.+\\fi/m, '')
 end
 
-default_files = %w( introduction.tex chapter_two.tex chapter_three.tex chapter_four.tex )
+default_files = %w( introduction.tex chapter_1.tex chapter_2.tex chapter_3.tex chapter_4.tex )
 input_files = ARGV.empty? ? default_files : ARGV
 paragraphs = read_paragraphs(*input_files)
 patterns = read_patterns("patterns.txt")
