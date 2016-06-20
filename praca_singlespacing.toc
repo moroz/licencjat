@@ -21,6 +21,7 @@
 \contentsline {section}{\numberline {4.2}Dalszy podział Szkoły Południowej}{35}
 \contentsline {section}{\numberline {4.3}Nanyue Huairang i szkoła Hongzhou}{35}
 \contentsline {section}{\numberline {4.4}Qingyuan Xingsi i szkoła Shitou}{37}
+\contentsline {section}{\numberline {4.5}Podsumowanie}{38}
 \contentsline {chapter}{Streszczenia}{39}
 \contentsline {chapter}{Bibliografia}{42}
 \contentsline {chapter}{Indeks}{45}

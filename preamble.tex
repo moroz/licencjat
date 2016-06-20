@@ -2,7 +2,7 @@
 \usepackage[no-math]{fontspec}
 \usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
 \usepackage[compact]{titlesec}
-\usepackage{setspace,url,indentfirst,hyphenat,xeCJK,makeidx,sectsty}
+\usepackage{setspace,url,indentfirst,hyphenat,xeCJK,makeidx,sectsty,fancyhdr}
 \usepackage[top=2.5cm,left=3.5cm,right=2.5cm,bottom=2.5cm]{geometry}
 \setmainfont[Mapping=times]{Times New Roman}
 \setsansfont[Scale=0.88]{Myriad Pro}
@@ -17,6 +17,12 @@
 \newcommand{\nazwisko}[1]{\nohyphens{\pyfont #1}}
 \newcommand{\pinyin}[1]{\nohyphens{\pyfont\itshape #1}}
 \let\fnm=\footnotemark
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE]{\nouppercase\leftmark}
+\fancyhead[RO]{\nouppercase\rightmark}
+\fancyfoot[CE,CO]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
 \newcommand{\ibid}{ (\textit{Ibidem}).}
 \hyphenation{Shen-xiu Shen-hui}
 \urlstyle{sf}
