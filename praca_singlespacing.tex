@@ -3,14 +3,14 @@
 \input{preamble}
 \usepackage{makeidx}
 \makeindex
+\renewcommand{\defspacing}{\spacing{1}}
+\renewcommand{\quotespacing}{\spacing{1}}
 \begin{document}
 \input{titlepage}
-\pagestyle{headings}
 \cleardoublepage
 \setcounter{page}{3}
 \include{declaration}
 \tableofcontents
-\pagestyle{headings}
 \titleformat{\chapter}[hang]
   {\normalfont\huge}{{\thechapter}}{20pt}{}
 \titlespacing{\chapter}{0pt}{0.5em}{0.5em}
