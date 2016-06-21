@@ -18,7 +18,7 @@
 \contentsline {chapter}{\numberline {4}Historyczne reperkusje \textit {Sutry Platformy}}{35}
 \contentsline {section}{\numberline {4.1}Podział chan na Szkołę Północną i Południową}{35}
 \contentsline {section}{\numberline {4.2}Dalszy podział Szkoły Południowej}{37}
-\contentsline {section}{\numberline {4.3}Nanyue Huairang i szkoła Hongzhou}{38}
+\contentsline {section}{\numberline {4.3}Nanyue Huairang i szkoła Hongzhou}{37}
 \contentsline {section}{\numberline {4.4}Qingyuan Xingsi i szkoła Shitou}{39}
 \contentsline {section}{\numberline {4.5}Zakończenie}{40}
 \contentsline {chapter}{Streszczenia}{41}

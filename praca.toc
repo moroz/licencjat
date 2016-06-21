@@ -21,6 +21,6 @@
 \contentsline {section}{\numberline {4.3}Nanyue Huairang i szkoła Hongzhou}{42}
 \contentsline {section}{\numberline {4.4}Qingyuan Xingsi i szkoła Shitou}{44}
 \contentsline {section}{\numberline {4.5}Zakończenie}{45}
-\contentsline {chapter}{Streszczenia}{46}
-\contentsline {chapter}{Bibliografia}{49}
-\contentsline {chapter}{Indeks}{51}
+\contentsline {chapter}{Streszczenia}{47}
+\contentsline {chapter}{Bibliografia}{50}
+\contentsline {chapter}{Indeks}{53}

@@ -51,7 +51,7 @@ Annały przekazu skarbu Dharmy     Annały przekazu skarbu Dharmy 傳法寶記
 Biografi(e|ach|i) wybitnych mnichów Song      Biografie wybitnych mnichów Song 宋高僧傳
 Lidai fabao ji      Lidai fabao ji 歷代法寶記
 
-chan\b      zhan
+chan\b      chan
 zen\b       zen
 Szko.. Czystej Krainy     Szkoła Czystej Krainy, amidyzm
 szko.. Linji              szkoła Linji 臨濟宗
@@ -82,7 +82,7 @@ Dharma Najwyższego Pojazdu      Dharma Najwyższego Pojazdu 最上乘法
 Trz(y|ech) Klejnot(y|ów|ach)    Trzy Klejnoty 三寶
 Madhjamak.      Madhjamaka
 Pradżniaparamit.    Pradżniaparamita
-Tathagathagarbha
+Tathāgathagarbha
 trz(y|ech) ciał.? buddy   trzy ciała buddy 三身
 stan prawdy     stan prawdy 法身
 stan wypromieniowania     stan wypromieniowania 應身
