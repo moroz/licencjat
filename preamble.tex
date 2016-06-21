@@ -3,7 +3,7 @@
 \usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
 \usepackage[compact]{titlesec}
 \usepackage[all]{nowidow}
-\usepackage{setspace,url,indentfirst,hyphenat,xeCJK,makeidx,sectsty,fancyhdr}
+\usepackage{setspace,url,indentfirst,hyphenat,xeCJK,makeidx,sectsty,fancyhdr,csquotes}
 \usepackage[top=2.5cm,left=3.5cm,right=2.5cm,bottom=2.5cm]{geometry}
 \setmainfont[Mapping=times]{Times New Roman}
 \setsansfont[Scale=0.88]{Myriad Pro}
@@ -17,6 +17,8 @@
 \newcommand{\toponim}[1]{\nohyphens{\pyfont #1}}
 \newcommand{\nazwisko}[1]{\nohyphens{\pyfont #1}}
 \newcommand{\pinyin}[1]{\nohyphens{\pyfont\itshape #1}}
+\newcommand{\defspacing}{\spacing{1.32}}
+\newcommand{\quotespacing}{\spacing{1.1}}
 \let\fnm=\footnotemark
 \pagestyle{fancy}
 \fancyhf{}
@@ -25,7 +27,8 @@
 \fancyfoot[CE,CO]{\thepage}
 \renewcommand{\headrulewidth}{0pt}
 \newcommand{\ibid}{ (\textit{Ibidem}).}
-\hyphenation{Shen-xiu Shen-hui kon-flik-ty Huai-rang Hui-neng Hui-nenga}
+\newcommand{\longquote}[1]{\quotespacing\blockquote{\itshape #1}\defspacing}
+\hyphenation{Shen-xiu Shen-hui kon-flik-ty Huai-rang Hui-neng Hui-nenga Hui-shun Hui-ming}
 \urlstyle{sf}
 \author{Karol Moroz}
 \title{Narodziny legendy.\\Sutra Platformy Szóstego Patriarchy Chan}
