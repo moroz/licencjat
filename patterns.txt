@@ -59,7 +59,8 @@ szko.. Hongzhou           szkoła Hongzhou 洪州宗
 Szko.. Północn(ej|.)      Szkoła Północna
 Szko.. Południow(ej|.)    Szkoła Południowa
 szko.. Heze               szkoła Heze 荷澤宗
-szko.. Rinzai             szkoła Rinzai|see {szkoła Linji}
+Rinzai             szkoła Rinzai
+Sōtō               szkoła Sōtō
 
 Dunhuang        Dunhuang 敦煌
 Luoyang.        Luoyang 洛陽
